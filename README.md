@@ -7,15 +7,17 @@
   - [Web-Based Internship Management Platform](https://github.com/limchinfeng/cat304-group38)
   - [Leetcode Challenges](https://github.com/pmgwee/LeetCode-Challenge)
 
-- Web Project 1(Full-stack Developer) : [Blockchain Home Rental Platforms](https://github.com/limchinfeng/algohub-fronted)
+- Project :
+  - Web Development Project:
+    - Full-stack Developer - [Blockchain Home Rental Platforms](https://github.com/limchinfeng/algohub-fronted)
+    - Front-end Developer - [Mobile App Development Hackathon Festival](https://github.com/PicadillyPica)
 
-- Web Project 2(Front-end Developer) : [Mobile App Development Hackathon Festival](https://github.com/PicadillyPica)
+  - Mobile Development Project:
+    - Front-end Developer - [Seamless E-payments System](https://github.com/pmgwee/Vhack_V007)
+    - Front-end Developer - [Poor Waste Management System](https://github.com/pmgwee/payhack_12)
 
-- Mobile Project 1(Front-end Developer) : [Seamless E-payments System](https://github.com/pmgwee/Vhack_V007)
-
-- Mobile Project 2(Front-end Developer) : [Poor Waste Management System](https://github.com/pmgwee/payhack_12)
-
-- Desktop Project (Full-stack Developer) : [Cinema Booking Application](https://github.com/pmgwee/CAT201_Project)
+  - Desktop Project:
+    - Full-stack Developer - [Cinema Booking Application](https://github.com/pmgwee/CAT201_Project)
 
 - 👨‍💻 All of my pieces are available at [https://linktr.ee/admin/appearance?q=%2Fadmin%2Fappearance](https://linktr.ee/admin/appearance?q=%2Fadmin%2Fappearance)
 
