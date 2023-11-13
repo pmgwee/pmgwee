@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=0e75b6&style=flat" alt="pmgwee" /> </p>
 
-- 🔭 I’m currently working on (Full-stack Developer) :
-  - [Web-Based Internship Management Platform](https://github.com/limchinfeng/cat304-group38)
+- 🔭 I’m currently working on  :
+  - Full-stack Developer - [Web-Based Internship Management Platform](https://github.com/limchinfeng/cat304-group38)
   - [Leetcode Challenges](https://github.com/pmgwee/LeetCode-Challenge)
 
 - Project :
