@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=0e75b6&style=flat" alt="pmgwee" /> </p>
 
 - 🔭 I’m currently working on (Full-stack Developer) : 
-[Web-Based Internship Management Platform](https://github.com/limchinfeng/cat304-group38)
+[Web-Based Internship Management Platform](https://github.com/limchinfeng/cat304-group38),
 [Leetcode Challenges](https://github.com/pmgwee/LeetCode-Challenge)
 
 - Web Project 1(Full-stack Developer) : [Blockchain Home Rental Platforms](https://github.com/limchinfeng/algohub-fronted)
