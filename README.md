@@ -3,11 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=0e75b6&style=flat" alt="pmgwee" /> </p>
 
-- 🔭 I’m currently working on (Full-stack) [Web-Based Internship Management Platform](https://github.com/limchinfeng/cat304-group38)
+- 🔭 I’m currently working on (Full-stack Developer) [Web-Based Internship Management Platform](https://github.com/limchinfeng/cat304-group38)
 
-- Project 1(Full-stack) [Web-Based Blockchain Home Rental Platforms](https://github.com/limchinfeng/algohub-fronted)
+- Web Project 1(Full-stack Developer) : [Blockchain Home Rental Platforms](https://github.com/limchinfeng/algohub-fronted)
 
-- Project 2(Front-end) [Web-Based Mobile App Development Hackathon Festival](https://github.com/PicadillyPica)
+- Web Project 2(Front-end Developer) : [Mobile App Development Hackathon Festival](https://github.com/PicadillyPica)
+
+- Mobile Project 1(Front-end Developer) : [Seamless E-payments System](https://github.com/pmgwee/Vhack_V007)
+
+- Mobile Project 2(Front-end Developer) : [Poor Waste Management System](https://github.com/pmgwee/payhack_12)
 
 - 👨‍💻 All of my pieces are available at [https://linktr.ee/admin/appearance?q=%2Fadmin%2Fappearance](https://linktr.ee/admin/appearance?q=%2Fadmin%2Fappearance)
 
