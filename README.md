@@ -13,8 +13,8 @@
     - Front-end Developer - [Mobile App Development Hackathon Festival](https://github.com/PicadillyPica)
 
   - Mobile Development Project:
-    - Front-end Developer - [Seamless E-payments System](https://github.com/pmgwee/Vhack_V007)
-    - Front-end Developer - [Poor Waste Management System](https://github.com/pmgwee/payhack_12)
+    - Front-end Developer - [Seamless E-payments System](https://github.com/pmgwee/payhack_12)
+    - Front-end Developer - [Poor Waste Management System](https://github.com/pmgwee/Vhack_V007)
 
   - Desktop Project:
     - Full-stack Developer - [Cinema Booking Application](https://github.com/pmgwee/CAT201_Project)
