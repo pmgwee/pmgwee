@@ -9,7 +9,8 @@
 
 - Project :
   - Web Development Project:
-    - Full-stack Developer - [Blockchain Home Rental Platforms](https://github.com/limchinfeng/algohub-fronted)
+    - Full-stack Developer - [Blockchain Home Rental Platforms (Trustay)  ](https://github.com/limchinfeng/algohub-fronted)
+    - Algorand Smart Contract  -[Smart Contract for Trustay ](https://github.com/angelineqee/Trustay_smartcontract)
     - Front-end Developer - [Mobile App Development Hackathon Festival](https://github.com/PicadillyPica)
 
   - Mobile Development Project:
@@ -17,7 +18,7 @@
     - Front-end Developer - [Poor Waste Management System](https://github.com/pmgwee/Vhack_V007)
 
   - Desktop Project:
-    - Full-stack Developer - [Cinema Booking Application](https://github.com/pmgwee/CAT201_Project)
+    - Java Developer - [Cinema Booking Application](https://github.com/pmgwee/CAT201_Project)
 
 - 👨‍💻 All of my pieces are available at [https://linktr.ee/admin/appearance?q=%2Fadmin%2Fappearance](https://linktr.ee/admin/appearance?q=%2Fadmin%2Fappearance)
 
