@@ -10,7 +10,7 @@
 - Project :
   - Web Development Project:
     - Serverless Full-stack Developer - [Blockchain Home Rental Platforms (Trustay)  ](https://github.com/limchinfeng/algohub-fronted)
-    - Front-end Developer - [Mobile App Development Hackathon Festival](https://github.com/PicadillyPica)
+    - Front-end Developer - [Odyssey Hackfest2023 Mobile App Development Hackathon Festival](https://github.com/PicadillyPica)
 
   - Mobile Development Project:
     - Front-end Developer - [Seamless E-payments System](https://github.com/pmgwee/payhack_12)
