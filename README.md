@@ -21,6 +21,9 @@
    
   - Blockchain Technology:
     - Algorand Smart Contract  -[Smart Contract for Trustay ](https://github.com/angelineqee/Trustay_smartcontract)
+   
+  - Ai Project
+    - Machine Learning Model - [Predictive Model Project](https://github.com/pmgwee/CPC251-ML-DL-Project)
 
 - 👨‍💻 All of my pieces are available at [https://linktr.ee/admin/appearance?q=%2Fadmin%2Fappearance](https://linktr.ee/admin/appearance?q=%2Fadmin%2Fappearance)
 
