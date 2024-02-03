@@ -4,11 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=0e75b6&style=flat" alt="pmgwee" /> </p>
 
 - 🔭 I’m currently working on  :
-  - Serverless Full-stack Developer - [Web-Based Internship Management Platform](https://github.com/limchinfeng/cat304-group38)
   - [Leetcode Challenges](https://github.com/pmgwee/LeetCode-Challenge)
+  - [Angular Portfolio Website]()
 
 - Project :
   - Web Development Project:
+    - Serverless Full-stack Developer - [Web-Based Internship Management Platform](https://github.com/limchinfeng/cat304-group38)
     - Serverless Full-stack Developer - [Blockchain Home Rental Platforms (Trustay)  ](https://github.com/limchinfeng/algohub-fronted)
     - Front-end Developer - [Odyssey Hackfest2023 Mobile App Development Hackathon Festival](https://github.com/PicadillyPica)
 
