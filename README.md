@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on  :
   - [Leetcode Challenges](https://github.com/pmgwee/LeetCode-Challenge)
-  - [Angular Portfolio Website]()
+  - Developer -[Angular Portfolio Website]()
 
 - Project :
   - Web Development Project:
-    - Serverless Full-stack Developer - [Web-Based Internship Management Platform](https://github.com/limchinfeng/cat304-group38)
+    -  [Web-Based Internship Management Platform](https://github.com/limchinfeng/cat304-group38)
     - Serverless Full-stack Developer - [Blockchain Home Rental Platforms (Trustay)  ](https://github.com/limchinfeng/algohub-fronted)
     - Front-end Developer - [Odyssey Hackfest2023 Mobile App Development Hackathon Festival](https://github.com/PicadillyPica)
 
