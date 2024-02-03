@@ -9,7 +9,7 @@
 
 - Project :
   - Web Development Project:
-    -  [Web-Based Internship Management Platform](https://github.com/limchinfeng/cat304-group38)
+    - Serverless Full-stack Developer - [Web-Based Internship Management Platform](https://github.com/limchinfeng/cat304-group38)
     - Serverless Full-stack Developer - [Blockchain Home Rental Platforms (Trustay)  ](https://github.com/limchinfeng/algohub-fronted)
     - Front-end Developer - [Odyssey Hackfest2023 Mobile App Development Hackathon Festival](https://github.com/PicadillyPica)
 
