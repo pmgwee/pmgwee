@@ -1,11 +1,17 @@
-<h1 align="center">Portfolio</h1>
-<h3 align="center">Bachelor's Degree of Computer Science, USM | Majoring in Software Engineering</h3>
+<h1 align="center">Ming Creatives</h1>
+<h3 align="center">Creative Technologist & AI Consultant · Award-standard 3D & Animated Web Experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=0e75b6&style=flat" alt="pmgwee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=6366f1&style=flat" alt="pmgwee" /> </p>
 
-- 🔭 I’m currently working on  :
-  - [Leetcode Challenges](https://github.com/pmgwee/LeetCode-Challenge)
-  - Developer -[Angular Portfolio Website]()
+- 🌐 Portfolio & contact: **[mingcreatives.com](https://www.mingcreatives.com)**
+- 🎨 I'm **Perming Gwee** — the person behind **Ming Creatives**. I craft
+  cinematic, high-performance 3D & animated websites (WebGL, GSAP, Next.js),
+  and build AI agents & automation when a project needs the edge.
+- 🔭 Currently building creative web experiences and AI-powered workflows.
+- 📫 Reach me at **perminggwee@gmail.com**
+- ⚡ Fun fact: I love photography — it sparks the ideas that fuel my creative & technical work.
+
+---
 
 - Project :
   - Web Development Project:
