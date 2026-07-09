@@ -37,25 +37,21 @@
 `Next.js 16` · `React 19` · `GSAP` · `Framer Motion` · `Lenis`
 <a href="https://github.com/pmgwee/subscription-agent"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=subscription-agent&description_lines_count=1&theme=vision-friendly-dark" alt="subscription-agent" /></a>
 
-**02 — [George Town Explorer](https://real-penang.vercel.app)**  ·  [code](https://github.com/pmgwee/real-penang)
-`real-time 3D · live geodata` — A playable 3D George Town built from live OpenStreetMap footprints + custom PBR shaders.
-`Three.js` · `GSAP` · `Vite` · `WebGL shaders`
-
-**03 — [Lando Norris Clone](https://lando-norris-clone-nine.vercel.app)**  ·  [code](https://github.com/pmgwee/lando-norris-clone)
-`pixel-faithful web` — A frame-for-frame rebuild reusing the real Webflow + OFF+BRAND bundle (verified pixel parity).
-`Vite` · `React 18` · `TypeScript` · `GSAP` · `three.js`
-
-**04 — [Subscription Agent](https://subscription-agent-five.vercel.app)**  ·  [code](https://github.com/pmgwee/subscription-agent)
-`AI agents · realtime` — A multi-tenant subscription dashboard with a live Claude/GLM usage bridge (per-user tokens, smart 429 backoff).
-`Next.js 15` · `TypeScript` · `Supabase (RLS, Realtime)`
-
-**05 — [AI Knowledge Assistant](https://github.com/pmgwee/Ai-Chatbot)**  ·  RAG, end to end
+**02 — [AI Knowledge Assistant](https://github.com/pmgwee/Ai-Chatbot)**  ·  RAG, end to end
 `RAG · LLM systems` — A chatbot that grounds every answer in your own documents.
 `Python` · `FastAPI` · `LangGraph` · `Pinecone` · `Next.js 15`
+
+**03 — [Subscription Agent](https://subscription-agent-five.vercel.app)**  ·  [code](https://github.com/pmgwee/subscription-agent)
+`AI agents · realtime` — A multi-tenant subscription dashboard with a live Claude/GLM usage bridge (per-user tokens, smart 429 backoff).
+`Next.js 15` · `TypeScript` · `Supabase (RLS, Realtime)`
 
 **06 — [Clone Website Plugin](https://github.com/pmgwee/clone-website-plugin)**  ·  ⭐ the one repo I've starred
 `AI tooling` — A Claude Code plugin that clones any site 1:1 via Design DNA.  Install: `claude plugin marketplace add pmgwee/clone-website-plugin`
 `Claude Code Plugin` · `MCP` · `Design DNA`
+
+**05 — [George Town Explorer](https://real-penang.vercel.app)**  ·  [code](https://github.com/pmgwee/real-penang)
+`real-time 3D · live geodata` — A playable 3D George Town built from live OpenStreetMap footprints + custom PBR shaders.
+`Three.js` · `GSAP` · `Vite` · `WebGL shaders`
 
 ---
 
