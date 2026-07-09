@@ -13,7 +13,6 @@
 - 🌐 Portfolio & contact: **[mingcreatives.com](https://www.mingcreatives.com)**
 - 🔭 **Currently building** — a live Claude/GLM usage bridge, a RAG knowledge assistant, and a playable 3D George Town rendered from live OpenStreetMap data.
 - 📫 Reach me at **perminggwee@gmail.com**
-- 
 ---
 
 <img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
@@ -31,26 +30,95 @@
 
 ## 🚀 Selected Work
 
-**01 — [Ming Creatives](https://mingcreatives.com)**  ·  [code](https://github.com/pmgwee/ming-portfolio)
-`cinematic 3D web` — The studio's own brand site: a 3D-scrollytelling portfolio.
-`Next.js 16` · `React 19` · `GSAP` · `Framer Motion` · `Lenis`
-<a href="https://github.com/pmgwee/subscription-agent"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=subscription-agent&description_lines_count=1&theme=vision-friendly-dark" alt="subscription-agent" /></a>
+## 🚀 Selected Work
 
-**02 — [AI Knowledge Assistant](https://github.com/pmgwee/Ai-Chatbot)**  ·  RAG, end to end
-`RAG · LLM systems` — A chatbot that grounds every answer in your own documents.
-`Python` · `FastAPI` · `LangGraph` · `Pinecone` · `Next.js 15`
+<table border="0" width="100%" cellspacing="14">
 
-**03 — [Subscription Agent](https://subscription-agent-five.vercel.app)**  ·  [code](https://github.com/pmgwee/subscription-agent)
-`AI agents · realtime` — A multi-tenant subscription dashboard with a live Claude/GLM usage bridge (per-user tokens, smart 429 backoff).
-`Next.js 15` · `TypeScript` · `Supabase (RLS, Realtime)`
+<tr>
+<td width="60%" valign="top">
 
-**06 — [Clone Website Plugin](https://github.com/pmgwee/clone-website-plugin)**  ·  ⭐ the one repo I've starred
-`AI tooling` — A Claude Code plugin that clones any site 1:1 via Design DNA.  Install: `claude plugin marketplace add pmgwee/clone-website-plugin`
-`Claude Code Plugin` · `MCP` · `Design DNA`
+**01 — [Ming Creatives](https://mingcreatives.com)**  ·  [code](https://github.com/pmgwee/ming-portfolio)<br>
+<sub>`cinematic 3D web` — The studio's own brand site: a 3D-scrollytelling portfolio.</sub><br>
+<sub>`Next.js 16` · `React 19` · `GSAP` · `Framer Motion` · `Lenis`</sub>
 
-**05 — [George Town Explorer](https://real-penang.vercel.app)**  ·  [code](https://github.com/pmgwee/real-penang)
-`real-time 3D · live geodata` — A playable 3D George Town built from live OpenStreetMap footprints + custom PBR shaders.
-`Three.js` · `GSAP` · `Vite` · `WebGL shaders`
+</td>
+<td width="40%" valign="middle" align="center">
+
+<a href="https://github.com/pmgwee/ming-portfolio"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=ming-portfolio&description_lines_count=1&theme=vision-friendly-dark" alt="ming-portfolio" width="300" /></a>
+
+</td>
+</tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+<tr>
+<td width="60%" valign="top">
+
+**02 — [AI Knowledge Assistant](https://github.com/pmgwee/Ai-Chatbot)**  ·  RAG, end to end<br>
+<sub>`RAG · LLM systems` — A chatbot that grounds every answer in your own documents.</sub><br>
+<sub>`Python` · `FastAPI` · `LangGraph` · `Pinecone` · `Next.js 15`</sub>
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<a href="https://github.com/pmgwee/Ai-Chatbot"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=Ai-Chatbot&description_lines_count=1&theme=vision-friendly-dark" alt="Ai-Chatbot" width="300" /></a>
+
+</td>
+</tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+<tr>
+<td width="60%" valign="top">
+
+**03 — [Subscription Agent](https://subscription-agent-five.vercel.app)**  ·  [code](https://github.com/pmgwee/subscription-agent)<br>
+<sub>`AI agents · realtime` — A multi-tenant subscription dashboard with a live Claude/GLM usage bridge (per-user tokens, smart 429 backoff).</sub><br>
+<sub>`Next.js 15` · `TypeScript` · `Supabase (RLS, Realtime)`</sub>
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<a href="https://github.com/pmgwee/subscription-agent"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=subscription-agent&description_lines_count=1&theme=vision-friendly-dark" alt="subscription-agent" width="300" /></a>
+
+</td>
+</tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+<tr>
+<td width="60%" valign="top">
+
+**04 — [Clone Website Plugin](https://github.com/pmgwee/clone-website-plugin)**  ·  ⭐ the one repo I've starred<br>
+<sub>`AI tooling` — A Claude Code plugin that clones any site 1:1 via Design DNA.  Install: `claude plugin marketplace add pmgwee/clone-website-plugin`</sub><br>
+<sub>`Claude Code Plugin` · `MCP` · `Design DNA`</sub>
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<a href="https://github.com/pmgwee/clone-website-plugin"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=pmgwee/clone-website-plugin&show_owner=true&description_lines_count=1&theme=vision-friendly-dark" alt="clone-website-plugin" width="300" /></a>
+
+</td>
+</tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+<tr>
+<td width="60%" valign="top">
+
+**05 — [George Town Explorer](https://real-penang.vercel.app)**  ·  [code](https://github.com/pmgwee/real-penang)<br>
+<sub>`real-time 3D · live geodata` — A playable 3D George Town built from live OpenStreetMap footprints + custom PBR shaders.</sub><br>
+<sub>`Three.js` · `GSAP` · `Vite` · `WebGL shaders`</sub>
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<a href="https://github.com/pmgwee/real-penang"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=real-penang&description_lines_count=1&theme=vision-friendly-dark" alt="real-penang" width="300" /></a>
+
+</td>
+</tr>
+
+</table>
+
 
 ---
 
