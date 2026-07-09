@@ -1,59 +1,108 @@
-<h1 align="center">Ming Creatives</h1>
-<h3 align="center">Creative Technologist & AI Consultant · Award-standard 3D & Animated Web Experiences</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=6366f1&style=flat" alt="pmgwee" /> </p>
+# Perming Gwee
 
-- 🌐 Portfolio & contact: **[mingcreatives.com](https://www.mingcreatives.com)**
-- 🎨 I'm **Perming Gwee** — the person behind **Ming Creatives**. I craft
-  cinematic, high-performance 3D & animated websites (WebGL, GSAP, Next.js),
-  and build AI agents & automation when a project needs the edge.
-- 🔭 Currently building creative web experiences and AI-powered workflows.
-- 📫 Reach me at **perminggwee@gmail.com**
-- ⚡ Fun fact: I love photography — it sparks the ideas that fuel my creative & technical work.
+### Creative Technologist & AI Consultant
+
+**I build cinematic 3D & animated websites — and the production AI agents that run underneath them.**
+
+</div>
 
 ---
 
-- Project :
-  - Web Development Project:
-    - Serverless Full-stack Developer - [Web-Based Internship Management Platform](https://github.com/limchinfeng/cat304-group38)
-    - Serverless Full-stack Developer - [Blockchain Home Rental Platforms (Trustay)  ](https://github.com/limchinfeng/algohub-fronted)
-    - Front-end Developer - [Odyssey Hackfest2023 Mobile App Development Hackathon Festival](https://github.com/PicadillyPica)
+A photographer who learned that a viewport is just another kind of camera, I run **[Ming Creatives](https://mingcreatives.com)** from Penang, Malaysia — building work where cinematic WebGL & motion engineering meets production-grade AI agents and automation. I hand-author the parts that demand taste: the shaders, the motion curves, the hard agent logic. Agents compress the boilerplate; the craft is still mine. In a Copilot era, craft matters more, not less.
 
-  - Mobile Development Project:
-    - Front-end Developer - [Seamless E-payments System](https://github.com/pmgwee/payhack_12)
-    - Front-end Developer - [Poor Waste Management System](https://github.com/pmgwee/Vhack_V007)
+> **Currently**
+> - **Building** — a live Claude/GLM usage bridge ([`subscription-agent`](https://github.com/pmgwee/subscription-agent)) and a RAG knowledge assistant ([`Ai-Chatbot`](https://github.com/pmgwee/Ai-Chatbot))
+> - **Exploring** — real-time 3D over live map data ([`real-penang`](https://github.com/pmgwee/real-penang)); vector search over personal corpora
+> - **Open to** — creative-technology, cinematic-web, and AI-automation work
 
-  - Desktop Project:
-    - Java Developer - [Cinema Booking Application](https://github.com/pmgwee/CAT201_Project)
-   
-  - Blockchain Technology:
-    - Algorand Smart Contract  -[Smart Contract for Trustay ](https://github.com/angelineqee/Trustay_smartcontract)
-   
-  - Ai Project
-    - Machine Learning Model - [Predictive Model Project](https://github.com/pmgwee/CPC251-ML-DL-Project)
+---
 
-- 👨‍💻 All of my pieces are available at [https://linktr.ee/admin/appearance?q=%2Fadmin%2Fappearance](https://linktr.ee/admin/appearance?q=%2Fadmin%2Fappearance)
+## Selected Work
 
-- 📫 How to reach me **perminggwee@gmail.com**
+**01 — [Ming Creatives](https://mingcreatives.com)**  ·  [code](https://github.com/pmgwee/ming-portfolio)
 
-- ⚡ Fun fact **I like to shoot photo.I love it because it's one of my largest passion and it allow me to generate my own ideas and inpsire me to be a more creative and innovative person**
+**Cinematic 3D, on the bleeding edge.** The studio's own brand site — a 3D-scrollytelling portfolio on Next.js 16 + React 19, built with GSAP, Framer Motion, and Lenis smooth scroll. This is where the photographer and the developer finally share a viewport.
+`Next.js 16` · `React 19` · `GSAP` · `Framer Motion` · `Lenis` · `Tailwind v4`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gwee per ming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gwee per ming" height="30" width="40" /></a>
-<a href="https://fb.com/jonathan per ming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonathan per ming" height="30" width="40" /></a>
-<a href="https://instagram.com/perming___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="perming___" height="30" width="40" /></a>
-<a href="https://www.behance.net/gwee per ming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gwee per ming" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/per ming gwee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="per ming gwee" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pmgwee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pmgwee" height="30" width="40" /></a>
-<a href="https://discord.gg/jonathangwee#8565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jonathangwee#8565" height="30" width="40" /></a>
-</p>
+**02 — [George Town Explorer](https://real-penang.vercel.app)**  ·  [code](https://github.com/pmgwee/real-penang)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**A playable 1:1 model of UNESCO George Town, built from live map data.** A gamified 3D walk (Three.js + GSAP + Vite) through Penang's heritage core, where every building footprint is fetched live from OpenStreetMap and extruded into 3D at its true GPS position — genuinely geographic, not hand-modeled. A custom PBR facade shader (triplanar plaster, per-building heritage tint, weathering), real Malaysian road markings, instanced street props, and landmarks placed at their true coordinates (Kuan Yin Temple, Jubilee Clock Tower, KOMTAR), finished with SSAO / bloom / color-grade. Where my photography obsession meets real-time graphics.
+`Three.js` · `GSAP` · `Vite` · `WebGL shaders` · `Overpass / OSM` · `GLTF`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmgwee&show_icons=true&locale=en&layout=compact" alt="pmgwee" /></p>
+**03 — [Lando Norris Clone](https://lando-norris-clone-nine.vercel.app)**  ·  [code](https://github.com/pmgwee/lando-norris-clone)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pmgwee&show_icons=true&locale=en" alt="pmgwee" /></p>
+**Pixel-faithful cinematic web.** A frame-for-frame reconstruction of [landonorris.com](https://landonorris.com) — after the original source was lost to a disk failure, this reuses the genuine Webflow design system and the real OFF+BRAND interaction bundle (GSAP, three.js, Rive), wrapped in a modern Vite + React + TypeScript shell. Verified parity: a sub-0.1 mean pixel diff versus production, zero console errors across every route.
+`Vite` · `React 18` · `TypeScript` · `GSAP` · `three.js` · `Rive` · `Playwright`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pmgwee&" alt="pmgwee" /></p>
+**04 — [Subscription Agent](https://subscription-agent-five.vercel.app)**  ·  [code](https://github.com/pmgwee/subscription-agent)
+
+**Production-grade AI-agent plumbing.** A full-stack Next.js 15 app that treats renewal math like it matters: a pure domain layer makes every charge date and monthly equivalent provably correct, with MYR-home multi-currency FX normalization. Its signature feature is a **live usage bridge** — each member runs one local script that reads their own Claude Pro and GLM usage and broadcasts it to a shared realtime dashboard, authenticated by per-user minted tokens. The bridge's smart 429 backoff (genuine errors retry fast; HTTP 429s climb a 60→300s ladder, honoring `retry-after` with a 60s floor) survived a real overnight lockout.
+`Next.js 15` · `React 19` · `TypeScript` · `Supabase (RLS, Realtime)` · `Tailwind v4` · `Framer Motion`
+
+**05 — [AI Knowledge Assistant](https://github.com/pmgwee/Ai-Chatbot)**  ·  RAG, end to end
+
+**A retrieval-augmented study companion that grounds every answer in your own documents.** A RAG chatbot for interview prep and portfolio showcase — Python / FastAPI backend + Next.js 15 frontend. A LangGraph retrieve→generate agent chunks, embeds (a local `all-MiniLM-L6-v2` sentence-transformer — no API key needed), stores in Pinecone, and retrieves to produce cited, hallucination-resistant explanations. Built as a deliberate 8-phase climb — pipeline → chunking strategies → LangGraph agent → MCP / A2A tooling → production — to understand every layer of a real RAG system.
+`Python` · `FastAPI` · `Next.js 15` · `LangChain` · `LangGraph` · `Pinecone` · `HuggingFace embeddings`
+
+**06 — [Clone Website Plugin](https://github.com/pmgwee/clone-website-plugin)**  ·  *the one repo I've starred*
+
+**An AI tool I built for my own workflow.** A Claude Code plugin that clones any website 1:1 — it reverse-engineers a site into structured **Design DNA** (colors, fonts, spacing, animation curves), reconstructs its WebGL and shader effects, then rebuilds it pixel-faithfully, behind a one-click `/clone-site` command.
+Install: `claude plugin marketplace add pmgwee/clone-website-plugin`
+`Claude Code Plugin` · `Skills` · `MCP` · `Design DNA`
+
+---
+
+<div align="center">
+
+## Capabilities
+
+**Cinematic web & motion** — Three.js · React Three Fiber · WebGL · GSAP · Framer Motion · Lenis · Blender · Figma
+**AI agents & systems** — Python · RAG / vector search · LLM APIs (OpenAI, Anthropic) · Node.js · automation
+**Product & platform** — TypeScript · React · Next.js · Tailwind CSS · Supabase · Postgres · Vercel
+**Also fluent in** — Java · C++ · Dart / Flutter · Docker · Git · Photoshop · Illustrator
+
+</div>
+
+---
+
+## Earlier work
+
+University coursework, hackathon builds, and final-year projects from my BSc in Computer Science at USM — spanning web, mobile, blockchain, AI, and algorithms — are archived as read-only snapshots in a separate repo:
+
+**→ [`pmgwee/past-projects`](https://github.com/pmgwee/past-projects)**
+
+---
+
+<div align="center">
+
+## By the numbers
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pmgwee&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Perming's GitHub stats" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=pmgwee&theme=tokyonight&hide_border=true" alt="GitHub streak stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmgwee&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" /></p>
+
+![Profile views](https://komarev.com/ghpvc/?username=pmgwee&style=flat-square&color=7aa2f7&label=Profile+views)
+
+</div>
+
+---
+
+<div align="center">
+
+## Let's build something
+
+Open to **creative-technology**, **cinematic-web**, and **AI-automation** work.
+
+[![Email](https://img.shields.io/badge/perminggwee@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:perminggwee@gmail.com)
+[![Portfolio](https://img.shields.io/badge/mingcreatives.com-7aa2f7?style=flat-square&logo=vercel&logoColor=white)](https://mingcreatives.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gweeperming-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gweeperming)
+[![YouTube](https://img.shields.io/badge/YouTube-perminggwee-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/perminggwee)
+[![LeetCode](https://img.shields.io/badge/LeetCode-pmgwee-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/pmgwee)
+
+*Light, then motion, then the systems underneath.*
+
+<sub>Built in Penang, Malaysia.</sub>
+
+</div>
