@@ -1,6 +1,8 @@
-# Perming Gwee · Creative Technologist · Malaysia
+<div align="center">
 
----
+# Perming Gwee · Creative Technologist · Malaysia
+</div>
+
 - 🌐 Portfolio & contact: **[mingcreatives.com](https://www.mingcreatives.com)**
 - 🔭 **Currently building** — a live Claude/GLM usage bridge, a RAG knowledge assistant, and a playable 3D George Town rendered from live OpenStreetMap data.
 - 📫 Reach me at **perminggwee@gmail.com**
@@ -94,15 +96,6 @@
 
 </table>
 
-<img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
-<div align="center">
-<p align="center">
-&nbsp;
-<img src="https://github-stats-extended.vercel.app/api?username=pmgwee&rank_icon=github&custom_title=Github%20Stats%20%F0%9F%9A%80&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Perming's GitHub stats" />
-&nbsp;
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=pmgwee&layout=compact&hide_progress=true&langs_count=4&theme=highcontrast" alt="Top languages" />
-</p>
-
 ---
 
 ## 📚 Earlier work
@@ -113,6 +106,15 @@ University coursework, hackathon builds, and final-year projects from my BSc in 
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
+<div align="center">
+<p align="center">
+&nbsp;
+<img src="https://github-stats-extended.vercel.app/api?username=pmgwee&rank_icon=github&custom_title=Github%20Stats%20%F0%9F%9A%80&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Perming's GitHub stats" />
+&nbsp;
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=pmgwee&layout=compact&hide_progress=true&langs_count=4&theme=highcontrast" alt="Top languages" />
+</p>
+  
 ---
 ## 🛠️ Capabilities
 
