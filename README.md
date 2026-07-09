@@ -9,11 +9,9 @@
 </div>
 
 ---
-
 - 🌐 Portfolio & contact: **[mingcreatives.com](https://www.mingcreatives.com)**
 - 🔭 **Currently building** — a live Claude/GLM usage bridge, a RAG knowledge assistant, and a playable 3D George Town rendered from live OpenStreetMap data.
 - 📫 Reach me at **perminggwee@gmail.com**
-
 ---
 
 <div align="center">
