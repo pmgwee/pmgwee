@@ -31,7 +31,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**02 — [AI Knowledge Assistant](https://github.com/pmgwee/Ai-Chatbot)**  ·  [Demo](https://drive.google.com/file/d/16-3yEi0P6bUBWXwXenkQOa0ZdfY8Wc28/view?usp=drive_link)<br>
+**02 — [AI Knowledge Assistant](https://github.com/pmgwee/Ai-Chatbot)**  ·  [Live Demo](https://drive.google.com/file/d/16-3yEi0P6bUBWXwXenkQOa0ZdfY8Wc28/view?usp=drive_link)<br>
 <sub>`RAG · LLM systems` — A chatbot that grounds every answer in your own documents.</sub><br>
 <sub>`Python` · `FastAPI` · `LangGraph` · `Pinecone` · `Next.js 15`</sub>
 
