@@ -108,7 +108,18 @@ I build cinematic 3D & animated websites — and the production AI agents that r
 &nbsp;
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=pmgwee&layout=compact&hide_progress=true&langs_count=4&theme=highcontrast" alt="Top languages" />
 </p>
-  
+
+---
+
+## 📚 Earlier work
+
+University coursework, hackathon builds, and final-year projects from my BSc in Computer Science at USM — spanning web, mobile, blockchain, AI, and algorithms — are archived as read-only snapshots in a separate repo:
+
+**→ [`pmgwee/past-projects`](https://github.com/pmgwee/past-projects)**
+
+---
+
+---
 ## 🛠️ Capabilities
 
 <p align="left">
@@ -136,15 +147,6 @@ I build cinematic 3D & animated websites — and the production AI agents that r
 </p>
 
 </div>
----
-
-## 📚 Earlier work
-
-University coursework, hackathon builds, and final-year projects from my BSc in Computer Science at USM — spanning web, mobile, blockchain, AI, and algorithms — are archived as read-only snapshots in a separate repo:
-
-**→ [`pmgwee/past-projects`](https://github.com/pmgwee/past-projects)**
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
