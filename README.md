@@ -109,19 +109,6 @@ I build cinematic 3D & animated websites — and the production AI agents that r
 &nbsp;
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=pmgwee&layout=compact&hide_progress=true&langs_count=4&theme=highcontrast" alt="Top languages" />
 </p>
-
-</div>
----
-
-<img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
-<div align="center">
-<p align="center">
-&nbsp;
-<img src="https://github-stats-extended.vercel.app/api?username=pmgwee&rank_icon=github&custom_title=Github%20Stats%20%F0%9F%9A%80&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Perming's GitHub stats" />
-&nbsp;
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=pmgwee&layout=compact&hide_progress=true&langs_count=4&theme=highcontrast" alt="Top languages" />
-</p>
-
 </div>
 
 <div align="center">
