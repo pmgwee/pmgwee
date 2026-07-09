@@ -5,7 +5,7 @@
 ### Creative Technologist & AI Consultant
 
 **I build cinematic 3D & animated websites — and the production AI agents that run underneath them.**
-<img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
+
 
 </div>
 
@@ -13,12 +13,11 @@
 - 🌐 Portfolio & contact: **[mingcreatives.com](https://www.mingcreatives.com)**
 - 🔭 **Currently building** — a live Claude/GLM usage bridge, a RAG knowledge assistant, and a playable 3D George Town rendered from live OpenStreetMap data.
 - 📫 Reach me at **perminggwee@gmail.com**
+- 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
 <div align="center">
-
-## 📊 Stats
-
 <p align="center">
 &nbsp;
 <img src="https://github-stats-extended.vercel.app/api?username=pmgwee&rank_icon=github&custom_title=Github%20Stats%20%F0%9F%9A%80&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Perming's GitHub stats" />
