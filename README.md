@@ -10,10 +10,9 @@
 
 ---
 
-- 🎨 **I'm Perming Gwee**, the person behind **[Ming Creatives](https://mingcreatives.com)**. I craft cinematic, high-performance 3D & animated websites (Three.js · WebGL · GSAP · Next.js) — and build production AI agents & automation when a project needs the edge.
+- 🌐 Portfolio & contact: **[mingcreatives.com](https://www.mingcreatives.com)**
 - 🔭 **Currently building** — a live Claude/GLM usage bridge, a RAG knowledge assistant, and a playable 3D George Town rendered from live OpenStreetMap data.
-- 📫 **Reach me at** — [perminggwee@gmail.com](mailto:perminggwee@gmail.com) · [mingcreatives.com](https://mingcreatives.com) · Penang, Malaysia
-- ⚡ **Fun fact** — I'm a photographer first. A viewport is just another kind of camera.
+- 📫 Reach me at **perminggwee@gmail.com**
 
 ---
 
@@ -22,9 +21,10 @@
 ## 📊 By the numbers
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" /></p>
-<p align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=pmgwee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Perming's GitHub stats" /></p>
-<p align="center"><img src="https://streak-stats.demolab.com/?user=pmgwee&theme=tokyonight&hide_border=true" alt="GitHub streak stats" /></p>
-<p align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=pmgwee&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" /></p>
+<p align="center"><img src="https://github-stats-extended.vercel.app/api?username=pmgwee&rank_icon=github&custom_title=Github%20Stats%20%F0%9F%9A%80&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Perming's GitHub stats" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=pmgwee&theme=vision-friendly-dark" alt="GitHub streak stats" /></p>
+<p align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pmgwee&theme=vision-friendly-dark&layout=compact" alt="Top languages" /></p>
+
 
 </div>
 
@@ -35,6 +35,7 @@
 **01 — [Ming Creatives](https://mingcreatives.com)**  ·  [code](https://github.com/pmgwee/ming-portfolio)
 `cinematic 3D web` — The studio's own brand site: a 3D-scrollytelling portfolio.
 `Next.js 16` · `React 19` · `GSAP` · `Framer Motion` · `Lenis`
+<a href="https://github.com/pmgwee/subscription-agent"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=subscription-agent&description_lines_count=1&theme=vision-friendly-dark" alt="subscription-agent" /></a>
 
 **02 — [George Town Explorer](https://real-penang.vercel.app)**  ·  [code](https://github.com/pmgwee/real-penang)
 `real-time 3D · live geodata` — A playable 3D George Town built from live OpenStreetMap footprints + custom PBR shaders.
