@@ -109,10 +109,8 @@ I build cinematic 3D & animated websites — and the production AI agents that r
 &nbsp;
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=pmgwee&layout=compact&hide_progress=true&langs_count=4&theme=highcontrast" alt="Top languages" />
 </p>
-</div>
-
-<div align="center">
-
+---
+  
 ## 🛠️ Capabilities
 
 <p align="left">
