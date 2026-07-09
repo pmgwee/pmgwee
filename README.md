@@ -1,10 +1,4 @@
-<div align="center">
-
 # Perming Gwee · Creative Technologist · Malaysia
-
-I build cinematic 3D & animated websites — and the production AI agents that run underneath them.**
-
-</div>
 
 ---
 - 🌐 Portfolio & contact: **[mingcreatives.com](https://www.mingcreatives.com)**
