@@ -14,7 +14,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**01 — [Ming Creatives](https://github.com/pmgwee/ming-portfolio)**  ·  [Live](https://mingcreatives.com)<br>
+**01 — Ming Creatives**  ·  [Live](https://mingcreatives.com)<br>
 <sub>`cinematic 3D web` — The studio's own brand site: a 3D-scrollytelling portfolio.</sub><br>
 <sub>`Next.js 16` · `React 19` · `GSAP` · `Framer Motion` · `Lenis`</sub>
 
@@ -31,7 +31,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**02 — [AI Knowledge Assistant](https://github.com/pmgwee/Ai-Chatbot)**  ·  [Live Demo](https://drive.google.com/file/d/16-3yEi0P6bUBWXwXenkQOa0ZdfY8Wc28/view?usp=drive_link)<br>
+**02 — AI Knowledge Assistant**  ·  [Live Demo](https://drive.google.com/file/d/16-3yEi0P6bUBWXwXenkQOa0ZdfY8Wc28/view?usp=drive_link)<br>
 <sub>`RAG · LLM systems` — A chatbot that grounds every answer in your own documents.</sub><br>
 <sub>`Python` · `FastAPI` · `LangGraph` · `Pinecone` · `Next.js 15`</sub>
 
@@ -48,7 +48,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**03 — [Subscription Agent](https://github.com/pmgwee/subscription-agent)**  ·  [Live](https://subscription-agent-five.vercel.app)<br>
+**03 — Subscription Agent**  ·  [Live](https://subscription-agent-five.vercel.app)<br>
 <sub>`AI agents · realtime` — A multi-tenant subscription dashboard with a live Claude/GLM usage bridge (per-user tokens, smart 429 backoff).</sub><br>
 <sub>`Next.js 15` · `TypeScript` · `Supabase (RLS, Realtime)`</sub>
 
@@ -65,7 +65,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**04 — [Clone Website Plugin](https://github.com/pmgwee/clone-website-plugin)**  ·   [Full Guide](https://app.notion.com/p/1-1-Website-Cloning-39489b83bac5817a94e3e180645d8982?source=copy_link)<br>
+**04 — Clone Website Plugin**  ·   [Full Guide](https://app.notion.com/p/1-1-Website-Cloning-39489b83bac5817a94e3e180645d8982?source=copy_link)<br>
 <sub>`AI tooling` — A Claude Code plugin that clones any site 1:1 via Design DNA.  Install: `claude plugin marketplace add pmgwee/clone-website-plugin`</sub><br>
 <sub>`Claude Code Plugin` · `MCP` · `Design DNA`</sub>
 
@@ -82,7 +82,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**05 — [George Town Explorer](https://github.com/pmgwee/real-penang)**  ·  [Live](https://real-penang.vercel.app)<br>
+**05 — George Town Explorer**  ·  [Live](https://real-penang.vercel.app)<br>
 <sub>`real-time 3D · live geodata` — A playable 3D George Town built from live OpenStreetMap footprints + custom PBR shaders.</sub><br>
 <sub>`Three.js` · `GSAP` · `Vite` · `WebGL shaders`</sub>
 
