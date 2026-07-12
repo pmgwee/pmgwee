@@ -53,7 +53,7 @@
   
 <td width="60%" valign="top">
   
-**04 — Workflow Automation**  ·  [Full Guide](https://github.com/pmgwee/multiagent-automation/blob/main/README.md)<br>
+**04 — MultiAgent Workflow Automation**  ·  [Full Guide](https://github.com/pmgwee/multiagent-automation/blob/main/README.md)<br>
 <sub>`AI tooling · agent orchestration` — A self-driving phase pipeline for Claude Code: one top-tier session plans and reviews while a cheaper CLI model implements headless, with its own screenshot-verified UI evidence.</sub><br>
 <sub>`Claude Code Skills` · `Node.js` · `Playwright` · `cc-switch`</sub>
 </td>
