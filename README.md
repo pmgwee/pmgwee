@@ -48,25 +48,39 @@
 <a href="https://github.com/pmgwee/Ai-Chatbot"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=Ai-Chatbot&description_lines_count=1&theme=vision-friendly-dark" alt="Ai-Chatbot" width="300" /></a>
 </td>
 </tr>
-<tr><td colspan="2">&nbsp;</td></tr>
+<tr>
+
+<td colspan="2">&nbsp;</td></tr>
 <tr>
   
 <td width="60%" valign="top">
   
-**04 — Ai-Agent-Orchestration-frameworks**  ·  [Full Guide](https://github.com/pmgwee/Ai-Agent-Orchestration-frameworks/blob/main/README.md)<br>
+**04 — Ai-Agent-Orchestration-frameworks**  ·  [Full Guide](https://github.com/pmgwee/Ai-Agent-Orchestration-Pipeline/blob/main/README.md)<br>
 <sub>`AI tooling · agent orchestration` — A self-driving phase pipeline for Claude Code: one top-tier session plans and reviews while a cheaper CLI model implements headless, with its own screenshot-verified UI evidence.</sub><br>
 <sub>`Claude Code Skills` · `Node.js` · `Playwright` · `cc-switch`</sub>
 </td>
 <td width="40%" valign="middle" align="center">
-<a href="https://github.com/pmgwee/multiagent-automation"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=multiagent-automation&description_lines_count=1&theme=vision-friendly-dark" alt="multiagent-automation" width="300" /></a>
+<a href="https://github.com/pmgwee/Ai-Agent-Orchestration-Pipeline"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=Ai-Agent-Orchestration-Pipeline&description_lines_count=1&theme=vision-friendly-dark" alt="Ai-Agent-Orchestration-Pipeline" width="300" /></a>
 </td>
 </tr>
 <tr><td colspan="2">&nbsp;</td></tr>
 <tr>
+
+<td width="60%" valign="top">
+
+**05 — Ai-Agent-Evaluation-Layer**  ·  [Full Guide](https://github.com/pmgwee/Ai-Agent-Evaluation-Layer#readme)<br>
+<sub>`agent memory · Claude skill` — A universal Claude skill that gives any agent-built project a durable, append-only "why it changed" log: defects, root causes, lessons, decisions, and real user feedback — captured into one committed file that survives across sessions and different AI agents.</sub><br>
+<sub>`Claude Code Skill` · `Markdown` · `Python`</sub>
+</td>
+<td width="40%" valign="middle" align="center">
+<a href="https://github.com/pmgwee/Ai-Agent-Evaluation-Layer"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=Ai-Agent-Evaluation-Layer&description_lines_count=1&theme=vision-friendly-dark" alt="Ai-Agent-Evaluation-Layer" width="300" /></a>
+</td>
+</tr>
+<tr><td colspan="2">&nbsp;</td></tr>
   
 <td width="60%" valign="top">
   
-**05 — Clone Website Plugin**  ·   [Full Guide](https://app.notion.com/p/1-1-Website-Cloning-39489b83bac5817a94e3e180645d8982?source=copy_link)<br>
+**06 — Clone Website Plugin**  ·   [Full Guide](https://app.notion.com/p/1-1-Website-Cloning-39489b83bac5817a94e3e180645d8982?source=copy_link)<br>
 <sub>`AI tooling` — A Claude Code plugin that clones any site 1:1 via Design DNA.  Install: `claude plugin marketplace add pmgwee/clone-website-plugin`</sub><br>
 <sub>`Claude Code Plugin` · `MCP` · `Design DNA`</sub>
 </td>
@@ -79,7 +93,7 @@
   
 <td width="60%" valign="top">
   
-**06 — George Town Explorer**  ·  [Live](https://real-penang.vercel.app/)<br>
+**07 — George Town Explorer**  ·  [Live](https://real-penang.vercel.app/)<br>
 <sub>`real-time 3D · live geodata` — A playable 3D George Town built from live OpenStreetMap footprints + custom PBR shaders.</sub><br>
 <sub>`Three.js` · `GSAP` · `Vite` · `WebGL shaders`</sub>
 </td>
