@@ -14,46 +14,14 @@
 <tr>
 <td width="60%" valign="top">
 
-**01 — Ming Creatives**  ·  [Live](https://mingcreatives.com/)<br>
-<sub>`cinematic 3D web` — The studio's own brand site: a 3D-scrollytelling portfolio.</sub><br>
-<sub>`Next.js 16` · `React 19` · `GSAP` · `Framer Motion` · `Lenis`</sub>
+**01 — Secondary Brain**  ·  [Brain repo](https://github.com/pmgwee/agent-knowledge-base-codex) · [Dashboard UI](https://github.com/pmgwee/agent-brain-dashboard)<br>
+<sub>`cross-agent memory · secondary brain` — A persistent local memory layer shared by Claude Code and Codex: every session transcript is captured into per-project SQLite ledgers and served back as a bounded, evidence-cited orientation at the start of each session, so continuing prior work never means re-reading the codebase. Hybrid BM25 + vector retrieval (RRF-fused over all-MiniLM-L6-v2) — 96% R@5 on LongMemEval-S.</sub><br>
+<sub>`Rust` · `SQLite` · `all-MiniLM-L6-v2` · `Next.js` · `Claude Code` · `Codex`</sub>
 
 </td>
 <td width="40%" valign="middle" align="center">
 
-<a href="https://github.com/pmgwee/ming-portfolio"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=ming-portfolio&description_lines_count=1&theme=vision-friendly-dark" alt="ming-portfolio" width="300" /></a>
-
-</td>
-</tr>
-
-<tr><td colspan="2">&nbsp;</td></tr>
-<tr>
-<td width="60%" valign="top">
-
-**02 — BersamaAi-community**  ·  [Live](https://discord.gg/HfRZeJMmqn)<br>
-<sub>`discord · ai-community · content-engine` — A solo-run, agent-automated Malaysia AI community pairing an automated content pipeline (YouTube talk summarizer + topic-routed AI news digest) with a discord.py event bot — welcome, reaction roles, leveling, @mention GLM chat.</sub><br>
-<sub>`discord.py` · `openai (GLM via Z.ai)` · `yt-dlp` · `Groq` · `youtube-transcript-api`</sub>
-
-</td>
-<td width="40%" valign="middle" align="center">
-
-<a href="https://github.com/pmgwee/BersamaAi-community"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=BersamaAi-community&description_lines_count=1&theme=vision-friendly-dark" alt="BersamaAi-community" width="300" /></a>
-
-</td>
-</tr>
-<tr><td colspan="2">&nbsp;</td></tr>
-
-<tr>
-<td width="60%" valign="top">
-
-**03 — Ai Music Recommendation (DuitSini)**  ·  [Live](https://duitsini.vercel.app)<br>
-<sub>`personal finance · MYR-native` — The rebrand + expansion of the subscription tracker into a three-pillar money platform: bills/subscriptions, live Claude/GLM usage, and stocks analysis — all in Ringgit, with auto-generated PDF statements and Telegram reminders.</sub><br>
-<sub>`Next.js 15` · `Supabase` · `React 19` · `Tailwind CSS v4` · `Recharts` · `TypeScript`</sub>
-
-</td>
-<td width="40%" valign="middle" align="center">
-
-<a href="https://github.com/pmgwee/DuitSini"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=DuitSini&description_lines_count=1&theme=vision-friendly-dark" alt="DuitSini" width="300" /></a>
+<a href="https://github.com/pmgwee/agent-knowledge-base-codex"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=agent-knowledge-base-codex&description_lines_count=1&theme=vision-friendly-dark" alt="agent-knowledge-base-codex" width="300" /></a>
 
 </td>
 </tr>
@@ -63,7 +31,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**04 — AI Knowledge Assistant**  ·  [Live Demo](https://drive.google.com/file/d/16-3yEi0P6bUBWXwXenkQOa0ZdfY8Wc28/view?usp=drive_link)<br>
+**02 — AI Knowledge Assistant**  ·  [Live Demo](https://drive.google.com/file/d/16-3yEi0P6bUBWXwXenkQOa0ZdfY8Wc28/view?usp=drive_link)<br>
 <sub>`RAG · LLM systems` — A chatbot that grounds every answer in your own documents.</sub><br>
 <sub>`Python` · `FastAPI` · `LangGraph` · `Pinecone` · `Next.js 15`</sub>
 
@@ -80,7 +48,58 @@
 <tr>
 <td width="60%" valign="top">
 
-**05 — Multi-Agent-Autopilot**  ·  [Full Guide](https://github.com/pmgwee/Ai-Agent-Orchestration-Pipeline/blob/main/README.md)<br>
+**03 — BersamaAi-community**  ·  [Live](https://discord.gg/HfRZeJMmqn)<br>
+<sub>`discord · ai-community · content-engine` — A solo-run, agent-automated Malaysia AI community pairing an automated content pipeline (YouTube talk summarizer + topic-routed AI news digest) with a discord.py event bot — welcome, reaction roles, leveling, @mention GLM chat.</sub><br>
+<sub>`discord.py` · `openai (GLM via Z.ai)` · `yt-dlp` · `Groq` · `youtube-transcript-api`</sub>
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<a href="https://github.com/pmgwee/BersamaAi-community"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=BersamaAi-community&description_lines_count=1&theme=vision-friendly-dark" alt="BersamaAi-community" width="300" /></a>
+
+</td>
+</tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+<tr>
+<td width="60%" valign="top">
+
+**04 — DuitSini**  ·  [Live](https://duitsini.vercel.app)<br>
+<sub>`personal finance · MYR-native` — The rebrand + expansion of the subscription tracker into a three-pillar money platform: bills/subscriptions, live Claude/GLM usage, and stocks analysis — all in Ringgit, with auto-generated PDF statements and Telegram reminders.</sub><br>
+<sub>`Next.js 15` · `Supabase` · `React 19` · `Tailwind CSS v4` · `Recharts` · `TypeScript`</sub>
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<a href="https://github.com/pmgwee/DuitSini"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=DuitSini&description_lines_count=1&theme=vision-friendly-dark" alt="DuitSini" width="300" /></a>
+
+</td>
+</tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+<tr>
+<td width="60%" valign="top">
+
+**05 — Ming Creatives**  ·  [Live](https://mingcreatives.com/)<br>
+<sub>`cinematic 3D web` — The studio's own brand site: a 3D-scrollytelling portfolio.</sub><br>
+<sub>`Next.js 16` · `React 19` · `GSAP` · `Framer Motion` · `Lenis`</sub>
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<a href="https://github.com/pmgwee/ming-portfolio"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=ming-portfolio&description_lines_count=1&theme=vision-friendly-dark" alt="ming-portfolio" width="300" /></a>
+
+</td>
+</tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+<tr>
+<td width="60%" valign="top">
+
+**06 — Multi-Agent-Autopilot**  ·  [Full Guide](https://github.com/pmgwee/Ai-Agent-Orchestration-Pipeline/blob/main/README.md)<br>
 <sub>`AI tooling · agent orchestration` — A self-driving phase pipeline for Claude Code: one top-tier session plans and reviews while a cheaper CLI model implements headless, with its own screenshot-verified UI evidence.</sub><br>
 <sub>`Claude Code Skills` · `Node.js` · `Playwright` · `cc-switch`</sub>
 
@@ -97,7 +116,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**06 — Ai-Agent-Evaluation-Layer**  ·  [Full Guide](https://github.com/pmgwee/Ai-Agent-Evaluation-Layer#readme)<br>
+**07 — Ai-Agent-Evaluation-Layer**  ·  [Full Guide](https://github.com/pmgwee/Ai-Agent-Evaluation-Layer#readme)<br>
 <sub>`agent memory · Claude skill` — A universal Claude skill that gives any agent-built project a durable, append-only "why it changed" log: defects, root causes, lessons, decisions, and real user feedback — captured into one committed file that survives across sessions and different AI agents.</sub><br>
 <sub>`Claude Code Skill` · `Markdown` · `Python`</sub>
 
@@ -114,7 +133,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**07 — Clone Website Plugin**  ·  [Full Guide](https://app.notion.com/p/1-1-Website-Cloning-39489b83bac5817a94e3e180645d8982?source=copy_link)<br>
+**08 — Clone Website Plugin**  ·  [Full Guide](https://app.notion.com/p/1-1-Website-Cloning-39489b83bac5817a94e3e180645d8982?source=copy_link)<br>
 <sub>`AI tooling` — A Claude Code plugin that clones any site 1:1 via Design DNA.  Install: `claude plugin marketplace add pmgwee/clone-website-plugin`</sub><br>
 <sub>`Claude Code Plugin` · `MCP` · `Design DNA`</sub>
 
@@ -131,7 +150,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**08 — Prompt Shortcut Agent Skills**  ·  [Full Guide](https://github.com/pmgwee/prompt-shortcut#readme)<br>
+**09 — Prompt Shortcut Agent Skills**  ·  [Full Guide](https://github.com/pmgwee/prompt-shortcut#readme)<br>
 <sub>`Claude Code · prompt launcher` — Turns your favorite prompts into a clickable slash-command menu and scales by one-file-per-prompt, so adding a prompt never touches code.  Install: `/plugin marketplace add pmgwee/prompt-shortcut && /plugin install prompt-shortcut@prompt-shortcut`</sub><br>
 <sub>`Claude Code Skill` · `Plugin` · `Markdown`</sub>
 
@@ -148,7 +167,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**09 — George Town Explorer**  ·  [Live](https://real-penang.vercel.app/)<br>
+**10 — George Town Explorer**  ·  [Live](https://real-penang.vercel.app/)<br>
 <sub>`real-time 3D · live geodata` — A playable 3D George Town built from live OpenStreetMap footprints + custom PBR shaders.</sub><br>
 <sub>`Three.js` · `GSAP` · `Vite` · `WebGL shaders`</sub>
 
@@ -159,7 +178,6 @@
 
 </td>
 </tr>
-
 </table>
 
 
