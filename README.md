@@ -46,7 +46,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**03 — DuitSini**  ·  [Live](https://duitsini.vercel.app)<br>
+**03 — Ai Music Recommendation (DuitSini)**  ·  [Live](https://duitsini.vercel.app)<br>
 <sub>`personal finance · MYR-native` — The rebrand + expansion of the subscription tracker into a three-pillar money platform: bills/subscriptions, live Claude/GLM usage, and stocks analysis — all in Ringgit, with auto-generated PDF statements and Telegram reminders.</sub><br>
 <sub>`Next.js 15` · `Supabase` · `React 19` · `Tailwind CSS v4` · `Recharts` · `TypeScript`</sub>
 
