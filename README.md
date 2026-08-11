@@ -14,7 +14,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**01 — Secondary Brain**  ·  [Brain repo](https://github.com/pmgwee/agent-knowledge-base-codex) · [Dashboard UI](https://github.com/pmgwee/agent-brain-dashboard)<br>
+**01 — Secondary Brain**  ·  [Brain repo](https://github.com/pmgwee/agent-knowledge-base-codex) · [Dashboard/Console](https://github.com/pmgwee/agent-brain-dashboard)<br>
 <sub>`cross-agent memory · secondary brain` — A persistent local memory layer shared by Claude Code and Codex: every session transcript is captured into per-project SQLite ledgers and served back as a bounded, evidence-cited orientation at the start of each session, so continuing prior work never means re-reading the codebase. Hybrid BM25 + vector retrieval (RRF-fused over all-MiniLM-L6-v2) — 96% R@5 on LongMemEval-S.</sub><br>
 <sub>`Rust` · `SQLite` · `all-MiniLM-L6-v2` · `Next.js` · `Claude Code` · `Codex`</sub>
 
