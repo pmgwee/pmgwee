@@ -79,29 +79,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**04 — Multi-Agent Routing Orchestration (Claude Skills)**
-<sub>*a.k.a. Multi-Agent-Autopilot*</sub>
-
-[Repo + full guide](https://github.com/pmgwee/Ai-Agent-Orchestration-Pipeline/blob/main/README.md)<br>
-
-<sub>**A frontier model plans. A cheap model builds. Screenshots keep it honest.** Playwright evidence goes back to the planner at every delivery phase, so the executor gets verified rather than trusted. Crash-safe resumption, zero manual prompting.</sub><br>
-
-<sub>`Claude Code Skills` · `Node.js` · `Playwright` · `MCP` · `cc-switch`</sub>
-
-</td>
-<td width="40%" valign="middle" align="center">
-
-<a href="https://github.com/pmgwee/Ai-Agent-Orchestration-Pipeline"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=Ai-Agent-Orchestration-Pipeline&description_lines_count=1&theme=vision-friendly-dark" alt="Ai-Agent-Orchestration-Pipeline" width="300" /></a>
-
-</td>
-</tr>
-
-<tr><td colspan="2">&nbsp;</td></tr>
-
-<tr>
-<td width="60%" valign="top">
-
-**05 — DuitSini — Real-Time LLM Usage Tracker**
+**04 — DuitSini — Real-Time LLM Usage Tracker**
 <sub>*expanded from the LLM-Backed Music Recommendation & Usage Tracker on my résumé*</sub>
 
 [Live](https://duitsini.vercel.app) · [Repo](https://github.com/pmgwee/DuitSini)<br>
@@ -126,6 +104,7 @@
 
 | | What it does | Install / Read |
 |---|---|---|
+| **[Multi-Agent Routing Orchestration](https://github.com/pmgwee/Ai-Agent-Orchestration-Pipeline#readme)** | A frontier model plans, a cheaper CLI model builds headless, and Playwright screenshot evidence goes back to the planner at every phase — so the executor gets verified rather than trusted. Crash-safe resumption, zero manual prompting. `Claude Code Skills` · `Node.js` · `Playwright` · `MCP` · `cc-switch` | [Guide](https://github.com/pmgwee/Ai-Agent-Orchestration-Pipeline/blob/main/README.md) |
 | **[Ai-Agent-Evaluation-Layer](https://github.com/pmgwee/Ai-Agent-Evaluation-Layer#readme)** | A universal Claude skill giving any agent-built project an append-only "why it changed" log — defects, root causes, decisions, real user feedback — in one committed file that survives across sessions and across different AI agents. | [Guide](https://github.com/pmgwee/Ai-Agent-Evaluation-Layer#readme) |
 | **[Clone Website Plugin](https://github.com/pmgwee/clone-website-plugin)** | Clones any site 1:1 via Design DNA extraction. | `claude plugin marketplace add pmgwee/clone-website-plugin` |
 | **[Prompt Shortcut](https://github.com/pmgwee/prompt-shortcut#readme)** | Turns saved prompts into a clickable slash-command menu; one file per prompt, so adding one never touches code. | `/plugin marketplace add pmgwee/prompt-shortcut` |
