@@ -9,11 +9,52 @@
 ### 🚀 Ai Projects
 
 <table border="0" width="100%" cellspacing="14">
-
 <tr>
 <td width="60%" valign="top">
 
-**01 — Cross-Agent Context Engineering with Persistent Second Brain**
+**01 — Personal AI Agent (Real-Ming Assistant)**
+<sub>*N/A*</sub>
+
+[Repo](https://github.com/pmgwee/real-ming) · [Live Now](https://discord.gg/HfRZeJMmqn)<br>
+
+<sub>**N/A** N/A</sub><br>
+
+<sub>`N/A` · </sub>
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<a href="https://github.com/pmgwee/BersamaAi-community"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=BersamaAi-community&description_lines_count=1&theme=vision-friendly-dark" alt="BersamaAi-community" width="300" /></a>
+
+</td>
+</tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr>
+<td width="60%" valign="top">
+
+**02 — Autonomous Trending News AI Agent**
+<sub>*a.k.a. BersamaAi — the community it runs*</sub>
+
+[Repo](https://github.com/pmgwee/BersamaAi-community) · [Live Now](https://discord.gg/HfRZeJMmqn)<br>
+
+<sub>**A one-person AI news desk that no longer needs the one person.** GLM-5.2 judges each candidate story for relevance and files it into 9 Discord channels every three hours; caption-less videos go through Whisper ASR on a daily GCP cronjob.</sub><br>
+
+<sub>`Python` · `discord.py` · `GLM-5.2 (Z.ai)` · `Groq Whisper ASR` · `yt-dlp` · `MCP` · `GitHub Actions` · `GCP Compute Engine`</sub>
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<a href="https://github.com/pmgwee/BersamaAi-community"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=BersamaAi-community&description_lines_count=1&theme=vision-friendly-dark" alt="BersamaAi-community" width="300" /></a>
+
+</td>
+</tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr>
+<td width="60%" valign="top">
+
+**03 — Cross-Agent Context Engineering with Persistent Second Brain**
 <sub>*a.k.a. Secondary Brain*</sub>
 
 [Engine](https://github.com/pmgwee/agent-knowledge-base-codex) · [Console](https://github.com/pmgwee/agent-brain-dashboard) · [Eval methodology](https://github.com/pmgwee/agent-knowledge-base-codex#evaluation)<br>
@@ -29,13 +70,11 @@
 
 </td>
 </tr>
-
 <tr><td colspan="2">&nbsp;</td></tr>
-
 <tr>
 <td width="60%" valign="top">
 
-**02 — RAG Chatbot with Self Auto-Ingestion**
+**04 — RAG Chatbot with Self Auto-Ingestion**
 <sub>*a.k.a. INTI-MBA Chatbot*</sub>
 
 [Repo](https://github.com/pmgwee/Ai-Chatbot) · [2-min demo](https://drive.google.com/file/d/16-3yEi0P6bUBWXwXenkQOa0ZdfY8Wc28/view?usp=drive_link)<br>
@@ -51,38 +90,15 @@
 
 </td>
 </tr>
-
 <tr><td colspan="2">&nbsp;</td></tr>
 
 <tr>
 <td width="60%" valign="top">
 
-**03 — Autonomous Trending News AI Agent**
-<sub>*a.k.a. BersamaAi — the community it runs*</sub>
-
-[Repo](https://github.com/pmgwee/BersamaAi-community) · [Live server](https://discord.gg/HfRZeJMmqn)<br>
-
-<sub>**A one-person AI news desk that no longer needs the one person.** GLM-5.2 judges each candidate story for relevance and files it into 9 Discord channels every three hours; caption-less videos go through Whisper ASR on a daily GCP cronjob.</sub><br>
-
-<sub>`Python` · `discord.py` · `GLM-5.2 (Z.ai)` · `Groq Whisper ASR` · `yt-dlp` · `MCP` · `GitHub Actions` · `GCP Compute Engine`</sub>
-
-</td>
-<td width="40%" valign="middle" align="center">
-
-<a href="https://github.com/pmgwee/BersamaAi-community"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=BersamaAi-community&description_lines_count=1&theme=vision-friendly-dark" alt="BersamaAi-community" width="300" /></a>
-
-</td>
-</tr>
-
-<tr><td colspan="2">&nbsp;</td></tr>
-
-<tr>
-<td width="60%" valign="top">
-
-**04 — DuitSini — Real-Time LLM Usage Tracker**
+**05 — DuitSini — Real-Time LLM Usage Tracker**
 <sub>*expanded from the LLM-Backed Music Recommendation & Usage Tracker on my résumé*</sub>
 
-[Live](https://duitsini.vercel.app) · [Repo](https://github.com/pmgwee/DuitSini)<br>
+[Repo](https://github.com/pmgwee/DuitSini) ·[Live Now](https://duitsini.vercel.app)<br>
 
 <sub>**Every ringgit and every token, on one screen.** Bills, live Claude/GLM burn across subscription plans and raw API keys, and stocks — MYR-native, with Telegram alerts the moment a threshold breaks and PDF statements on demand.</sub><br>
 
@@ -109,13 +125,13 @@
 | **[Clone Website Plugin](https://github.com/pmgwee/clone-website-plugin)** | Clones any site 1:1 via Design DNA extraction. | `claude plugin marketplace add pmgwee/clone-website-plugin` |
 | **[Prompt Shortcut](https://github.com/pmgwee/prompt-shortcut#readme)** | Turns saved prompts into a clickable slash-command menu; one file per prompt, so adding one never touches code. | `/plugin marketplace add pmgwee/prompt-shortcut` |
 
-## 🌐 Creative 3D Project 
+## 🌐 Creative 3D Project  
 
 | | What it does | Live |
 |---|---|---|
 | **[Ming Creatives](https://github.com/pmgwee/ming-portfolio)** | Yierming Production's brand site — 3D scrollytelling portfolio. `Next.js 16` · `GSAP` · `Framer Motion` · `Lenis` | [mingcreatives.com](https://mingcreatives.com/) |
-| **[George Town Explorer](https://github.com/pmgwee/real-penang)** | A playable 3D George Town built from live OpenStreetMap footprints with custom PBR shaders. `Three.js` · `WebGL` · `Vite` | [real-penang.vercel.app](https://real-penang.vercel.app/) |
-
+| **[3D George Town](https://github.com/pmgwee/real-penang)** | A playable 3D George Town built from live OpenStreetMap footprints with custom PBR shaders. `Three.js` · `WebGL` · `Vite` | [real-penang.vercel.app](https://real-penang.vercel.app/) |
+| **[3D Dataran Merdeka](https://github.com/pmgwee/image-3d-model-)** | A playable 3D Da built from live OpenStreetMap footprints with custom PBR shaders. `Three.js` · `WebGL` · `Vite` | [dataranmerdeka.vercel.app](https://dataranmerdeka.vercel.app/) |
 ---
 
 ## 📚  Past Works
