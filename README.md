@@ -15,7 +15,7 @@
 **01 — Personal AI Agent (Real-Ming Assistant)**
 <sub>*N/A*</sub>
 
-[Engine](https://github.com/pmgwee/agent-knowledge-base-codex)  · [Live Now](https://discord.gg/HfRZeJMmqn)<br>
+[Repo](https://github.com/pmgwee/real-ming) · [Live Now](https://telegram.me/MingCreativesBot)<br>
 
 <sub>**N/A** N/A</sub><br>
 
@@ -24,7 +24,7 @@
 </td>
 <td width="40%" valign="middle" align="center">
 
-<a href="https://github.com/pmgwee/BersamaAi-community"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=BersamaAi-community&description_lines_count=1&theme=vision-friendly-dark" alt="BersamaAi-community" width="300" /></a>
+<a href="https://github.com/pmgwee/real-ming"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=Real-Ming&description_lines_count=1&theme=vision-friendly-dark" alt="real-ming" width="300" /></a>
 
 </td>
 </tr>
