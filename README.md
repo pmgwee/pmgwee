@@ -12,8 +12,8 @@
 <tr>
 <td width="60%" valign="top">
 
-**01 — Personal AI Agent (Real-Ming Assistant)**
-<sub>*N/A*</sub>
+**01 — Personal AI Agent / Bot (Real-Ming Assistant)**
+<sub>*Work as same like Grok Bot /Hermes Bot/ Meta Muse*</sub>
 
 [Repo](https://github.com/pmgwee/real-ming) · [Live Now](https://telegram.me/MingCreativesBot)<br>
 
