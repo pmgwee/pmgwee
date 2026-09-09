@@ -15,7 +15,7 @@
 **01 — Personal AI Agent (Real-Ming Assistant)**
 <sub>*N/A*</sub>
 
-[Repo](https://github.com/pmgwee/real-ming) · [Live Now](https://discord.gg/HfRZeJMmqn)<br>
+[Engine](https://github.com/pmgwee/agent-knowledge-base-codex)  · [Live Now](https://discord.gg/HfRZeJMmqn)<br>
 
 <sub>**N/A** N/A</sub><br>
 
