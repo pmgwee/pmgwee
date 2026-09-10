@@ -17,7 +17,7 @@
 
 [Repo](https://github.com/pmgwee/real-ming) · [Live Now](https://telegram.me/MingCreativesBot)<br>
 
-<sub>Real-Ming exists as a control plane for agent with defined operating SOP (Agent Mode/Model) , a set of workflow and tools with personalized and customized capability (Agent Skills & MCP) , a Cross-source coordination (Third-party Connectors),two daily briefs and from one Telegram message to deliever the code until opened a real PR.
+<sub>**A Hermes Agent Working 24/7 feels like your real personal-assistant**Real-Ming exists as a control plane for agent with defined operating SOP (Agent Mode/Model) , a set of workflow and tools with personalized and customized capability (Agent Skills & MCP) , a Cross-source coordination (Third-party Connectors),two daily briefs and from one Telegram message to deliever the code until opened a real PR.
 Everythings tracked, maintained and presented in a kanban dashboard</sub><br>
 
 <sub>`TypeScript` · `Hermes Agent` · `MCP` · `Azure VM + Key Vault` · `SQLite` · `Telegram Bot API` · `Google Calendar + Gmail API` · `systemd` · `Vitest`</sub>
