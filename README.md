@@ -13,7 +13,7 @@
 <td width="60%" valign="top">
 
 **01 — Personal AI Agent / Bot (Real-Ming Assistant)**
-<sub>*Work as same like Grok Bot /Hermes Bot/ Meta Muse*</sub>
+<sub>*a.k.a Customized & Personalized Hermes Agent*</sub>
 
 [Repo](https://github.com/pmgwee/real-ming) · [Live Now](https://telegram.me/MingCreativesBot)<br>
 
