@@ -17,9 +17,9 @@
 
 [Repo](https://github.com/pmgwee/real-ming) · [Live Now](https://telegram.me/MingCreativesBot)<br>
 
-<sub>**N/A** N/A</sub><br>
+<sub>**It drafts the email and cannot send it — no send tool exists.** Native Hermes owns the conversation; Real-Ming adds nine governed tools over a calendar and three separately-routed mailboxes, a cross-app work-item model, and two daily briefs on an always-on Azure VM with both dashboards on loopback. From one Telegram message it cloned a repo, wrote the failing test first, and opened a real PR.</sub><br>
 
-<sub>`N/A` · </sub>
+<sub>`TypeScript` · `Hermes Agent` · `MCP` · `Azure VM + Key Vault` · `SQLite` · `Telegram Bot API` · `Google Calendar + Gmail API` · `systemd` · `Vitest`</sub>
 
 </td>
 <td width="40%" valign="middle" align="center">
