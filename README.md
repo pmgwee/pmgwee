@@ -5,6 +5,7 @@
 
 - 🌐 Portfolio & contact: **[mingcreatives.com](https://www.mingcreatives.com)**
 - 📫 Reach me at **perminggwee@gmail.com**
+- 🌱 Open-source contributor — currently contributing to **[career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)** with web dashboard enhancements.
 ---
 ### 🚀 Ai Projects
 
