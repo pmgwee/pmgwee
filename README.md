@@ -5,7 +5,7 @@
 
 - 🌐 Portfolio & contact: **[mingcreatives.com](https://www.mingcreatives.com)**
 - 📫 Reach me at **perminggwee@gmail.com**
-- 🌱 Open-source contributor and heavy **[career-ops-hq Project](https://github.com/career-ops-hq/career-ops)** user — I run my full job-hunt journey through the system. **Day 7/100:** 50+ applications this week, up from 2 last week, 5 responses, and 1 interview invite.
+- 🌱 Open-source contributor and heavy **[career-ops-hq(Repository)](https://github.com/career-ops-hq/career-ops)** user — I run my full job-hunt journey through the system. **Day 7/100:** 50+ applications this week, up from 2 last week, 5 responses, and 1 interview invite.
 ---
 ### 🚀 Ai Projects
 
