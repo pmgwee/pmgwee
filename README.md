@@ -18,7 +18,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views"/>
-<a href="https://github.com/pmgwee?tab=followers"><img src="https://img.shields.io/github/followers/pmgwee?label=Followers&style=flat-square&color=6366f1&labelColor=0D1117" alt="Followers"/></a>
 <img src="https://img.shields.io/badge/Open%20to%20work-Yes-3ECF8E?style=flat-square&labelColor=0D1117" alt="Open to work"/>
 
 </div>
