@@ -1,196 +1,407 @@
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+
 <div align="center">
 
-# Perming Gwee · Malaysia
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Perming%20Gwee&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%2FAI%20Engineer%20%E2%80%A2%20Agentic%20Product%20Builder%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Malaysia&descSize=16&descAlignY=54" width="100%"/>
+
+<a href="https://www.mingcreatives.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=6366F1&center=true&vCenter=true&width=760&lines=Building+production+AI+agents;Agent+Memory+%C2%B7+Multi-Agent+Orchestration+%C2%B7+Evals;Open-source+contributor+%40+Career+Ops+(70K%E2%98%85);Playable+3D+cities+in+the+browser;Welcome+to+my+profile+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.mingcreatives.com"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/gweeperming"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="mailto:perminggwee@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+<a href="https://www.behance.net/gweeperming"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=0D1117" alt="Behance"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views"/>
+<a href="https://github.com/pmgwee?tab=followers"><img src="https://img.shields.io/github/followers/pmgwee?label=Followers&style=flat-square&color=6366f1&labelColor=0D1117" alt="Followers"/></a>
+<img src="https://img.shields.io/badge/Open%20to%20work-Yes-3ECF8E?style=flat-square&labelColor=0D1117" alt="Open to work"/>
+
 </div>
 
-- 🌐 Portfolio & contact: **[mingcreatives.com](https://www.mingcreatives.com)**
-- 📫 Reach me at **perminggwee@gmail.com**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
----
-- 🌱 Open-source contributor and heavy **[career-ops-hq(Repository)](https://github.com/career-ops-hq/career-ops)** user — I run my full job-hunt journey through the system. **Day 7/100:** 50+ applications this week, up from 2 last week, 5 responses, and 1 interview invite.
----
-### 🚀 Ai Projects
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 
-<table border="0" width="100%" cellspacing="14">
+## &nbsp;🧑‍💻&nbsp; About me
+
+<table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-**01 — Personal AI Agent / Bot (Real-Ming Assistant)**
-<sub>*a.k.a Customized & Personalized Hermes Agent*</sub>
+```python
+class Perming:
+    home    = "Malaysia 🇲🇾"
+    degree  = "BSc Computer Science, USM"
+    builds  = ["agentic systems", "agent memory",
+               "multi-agent orchestration",
+               "evals", "3D web"]
+    shipped = ["Real-Ming", "BersamaAi",
+               "Second Brain", "DuitSini",
+               "INTI-MBA Chatbot"]
+    studio  = "Ming Creatives"
 
-[Repo](https://github.com/pmgwee/real-ming) · [Live Now](https://telegram.me/MingCreativesBot)<br>
-
-<sub>**A Hermes Agent Working 24/7 feels like your real personal-assistant**. Real-Ming exists as a control plane for agent with defined operating SOP (Agent Mode/Model) , a set of workflow and tools with personalized and customized capability (Agent Skills & MCP) , a Cross-source coordination (Third-party Connectors),two daily briefs and from one Telegram message to deliever the code until opened a real PR.
-Everythings tracked, maintained and presented in a kanban dashboard</sub><br>
-
-<sub>`TypeScript` · `Hermes Agent` · `MCP` · `Azure VM + Key Vault` · `SQLite` · `Telegram Bot API` · `Google Calendar + Gmail API` · `systemd` · `Vitest`</sub>
+    def job_hunt(self, day=7):
+        # all through career-ops
+        return {"apps": "50+ / week",
+                "replies": 5,
+                "interviews": 1}
+```
 
 </td>
-<td width="40%" valign="middle" align="center">
+<td width="42%" valign="top">
 
-<a href="https://github.com/pmgwee/real-ming"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=Real-Ming&description_lines_count=1&theme=vision-friendly-dark" alt="real-ming" width="300" /></a>
+|  | |
+|:--:|:--|
+| 🤖 | I build **agents that run 24/7** and ship code |
+| 🧠 | Deep in **agent memory, orchestration & evals** |
+| 🔌 | Shipping **agent skills, plugins & MCP tools** |
+| 🌱 | Open-source contributor @ **[career-ops](https://github.com/career-ops-hq/career-ops)** (70K★) |
+| 🎨 | Making **3D web** for Ming Creatives |
+| 🌐 | **[mingcreatives.com](https://www.mingcreatives.com)** |
+| 📫 | **[perminggwee@gmail.com](mailto:perminggwee@gmail.com)** |
 
 </td>
 </tr>
-
-<tr><td colspan="2">&nbsp;</td></tr>
-<tr>
-<td width="60%" valign="top">
-
-**02 — Autonomous Trending News AI Agent**
-<sub>*a.k.a. BersamaAi — the community it runs*</sub>
-
-[Repo](https://github.com/pmgwee/BersamaAi-community) · [Live Now](https://discord.gg/HfRZeJMmqn)<br>
-
-<sub>**A one-person AI news desk that no longer needs the one person.** GLM-5.2 judges each candidate story for relevance and files it into 9 Discord channels every three hours; caption-less videos go through Whisper ASR on a daily GCP cronjob.</sub><br>
-
-<sub>`Python` · `discord.py` · `GLM-5.2 (Z.ai)` · `Groq Whisper ASR` · `yt-dlp` · `MCP` · `GitHub Actions` · `GCP Compute Engine`</sub>
-
-</td>
-<td width="40%" valign="middle" align="center">
-
-<a href="https://github.com/pmgwee/BersamaAi-community"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=BersamaAi-community&description_lines_count=1&theme=vision-friendly-dark" alt="BersamaAi-community" width="300" /></a>
-
-</td>
-</tr>
-
-<tr><td colspan="2">&nbsp;</td></tr>
-<tr>
-<td width="60%" valign="top">
-
-**03 — Cross-Agent Context Engineering with Persistent Second Brain**
-<sub>*a.k.a. Secondary Brain*</sub>
-
-[Engine](https://github.com/pmgwee/agent-knowledge-base-codex) · [Console](https://github.com/pmgwee/agent-brain-dashboard) · [Eval methodology](https://github.com/pmgwee/agent-knowledge-base-codex#evaluation)<br>
-
-<sub>**Claude Code forgets. Codex forgets. This remembers for both of them.** Session transcripts become evidence-cited Obsidian memory, served back as a ≤1,500-token orientation instead of a cold start. Hybrid BM25 + vector + graph RRF — 96.0% Recall@5 over 246,750 turns.</sub><br>
-
-<sub>`Rust` · `SQLite FTS5` · `all-MiniLM-L6-v2` · `Codegraph` · `MCP` · `Next.js` · `Claude Code + Codex hooks`</sub>
-
-</td>
-<td width="40%" valign="middle" align="center">
-
-<a href="https://github.com/pmgwee/agent-knowledge-base-codex"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=agent-knowledge-base-codex&description_lines_count=1&theme=vision-friendly-dark" alt="agent-knowledge-base-codex" width="300" /></a>
-
-</td>
-</tr>
-<tr><td colspan="2">&nbsp;</td></tr>
-<tr>
-<td width="60%" valign="top">
-
-**04 — RAG Chatbot with Self Auto-Ingestion**
-<sub>*a.k.a. INTI-MBA Chatbot*</sub>
-
-[Repo](https://github.com/pmgwee/Ai-Chatbot) · [2-min demo](https://drive.google.com/file/d/16-3yEi0P6bUBWXwXenkQOa0ZdfY8Wc28/view?usp=drive_link)<br>
-
-<sub>**A course assistant that re-reads the syllabus while you sleep — and cites the slide it answered from.** A LangGraph agent that grades its own retrievals and rewrites the query when they fail. 4 live Canvas courses, 3,800+ passages, zero manual uploads.</sub><br>
-
-<sub>`Python` · `FastAPI` · `LangGraph` · `LangChain` · `Pinecone` · `RapidOCR` · `Docker` · `AWS EC2` · `Next.js 15`</sub>
-
-</td>
-<td width="40%" valign="middle" align="center">
-
-<a href="https://github.com/pmgwee/Ai-Chatbot"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=Ai-Chatbot&description_lines_count=1&theme=vision-friendly-dark" alt="Ai-Chatbot" width="300" /></a>
-
-</td>
-</tr>
-<tr><td colspan="2">&nbsp;</td></tr>
-
-<tr>
-<td width="60%" valign="top">
-
-**05 — DuitSini — Real-Time LLM Usage Tracker**
-<sub>*expanded from the LLM-Backed Music Recommendation & Usage Tracker on my résumé*</sub>
-
-[Repo](https://github.com/pmgwee/DuitSini) ·[Live Now](https://duitsini.vercel.app)<br>
-
-<sub>**Every ringgit and every token, on one screen.** Bills, live Claude/GLM burn across subscription plans and raw API keys, and stocks — MYR-native, with Telegram alerts the moment a threshold breaks and PDF statements on demand.</sub><br>
-
-<sub>`Next.js 15` · `React 19` · `TypeScript` · `Supabase` · `GLM-5.2` · `GCP OAuth 2.0 & YouTube API` · `Telegram Bot` · `Recharts` · `Tailwind v4`</sub>
-
-</td>
-<td width="40%" valign="middle" align="center">
-
-<a href="https://github.com/pmgwee/DuitSini"><img src="https://github-stats-extended.vercel.app/api/pin?username=pmgwee&repo=DuitSini&description_lines_count=1&theme=vision-friendly-dark" alt="DuitSini" width="300" /></a>
-
-</td>
-</tr>
-
 </table>
 
----
+> [!TIP]
+> **#100DaysOfJobHunt — Day 7/100.** I run my entire job search through **[career-ops](https://github.com/career-ops-hq/career-ops)**. This week: **50+ applications** (up from 2 last week) → **5 responses** → **1 interview invite**.
 
-## 🤖 Agent tooling & Agent Skills & Agent Plugin
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-| | What it does | Install / Read |
-|---|---|---|
-| **[Multi-Agent Routing Orchestration](https://github.com/pmgwee/Ai-Agent-Orchestration-Pipeline#readme)** | A frontier model plans, a cheaper CLI model builds headless, and Playwright screenshot evidence goes back to the planner at every phase — so the executor gets verified rather than trusted. Crash-safe resumption, zero manual prompting. `Claude Code Skills` · `Node.js` · `Playwright` · `MCP` · `cc-switch` | [Guide](https://github.com/pmgwee/Ai-Agent-Orchestration-Pipeline/blob/main/README.md) |
-| **[Ai-Agent-Evaluation-Layer](https://github.com/pmgwee/Ai-Agent-Evaluation-Layer#readme)** | A universal Claude skill giving any agent-built project an append-only "why it changed" log — defects, root causes, decisions, real user feedback — in one committed file that survives across sessions and across different AI agents. | [Guide](https://github.com/pmgwee/Ai-Agent-Evaluation-Layer#readme) |
-| **[Clone Website Plugin](https://github.com/pmgwee/clone-website-plugin)** | Clones any site 1:1 via Design DNA extraction. | `claude plugin marketplace add pmgwee/clone-website-plugin` |
-| **[Prompt Shortcut](https://github.com/pmgwee/prompt-shortcut#readme)** | Turns saved prompts into a clickable slash-command menu; one file per prompt, so adding one never touches code. | `/plugin marketplace add pmgwee/prompt-shortcut` |
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
 
-## 🌐 Creative 3D Project  
+## &nbsp;🛠️&nbsp; Tech stack
 
-| | What it does | Live |
-|---|---|---|
-| **[Ming Creatives](https://github.com/pmgwee/ming-portfolio)** | Yierming Production's brand site — 3D scrollytelling portfolio. `Next.js 16` · `GSAP` · `Framer Motion` · `Lenis` | [mingcreatives.com](https://mingcreatives.com/) |
-| **[3D George Town](https://github.com/pmgwee/real-penang)** | A playable 3D George Town built from live OpenStreetMap footprints with custom PBR shaders. `Three.js` · `WebGL` · `Vite` | [real-penang.vercel.app](https://real-penang.vercel.app/) |
-| **[3D Dataran Merdeka](https://github.com/pmgwee/image-3d-model-)** | A playable 3D Da built from live OpenStreetMap footprints with custom PBR shaders. `Three.js` · `WebGL` · `Vite` | [dataranmerdeka.vercel.app](https://dataranmerdeka.vercel.app/) |
----
-
-## 📚  Past Works
-
-University coursework, hackathon builds, and final-year projects from my BSc in Computer Science at USM — spanning web, mobile, blockchain, AI, and algorithms — are archived as read-only snapshots in a separate repo:
-
-**→ [`pmgwee/past-projects`](https://github.com/pmgwee/past-projects)**
-
----
-
-<img src="https://komarev.com/ghpvc/?username=pmgwee&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
 <div align="center">
-<p align="center">
-&nbsp;
-<img src="https://github-stats-extended.vercel.app/api?username=pmgwee&rank_icon=github&custom_title=Github%20Stats%20%F0%9F%9A%80&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Perming's GitHub stats" />
-&nbsp;
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=pmgwee&layout=compact&hide_progress=true&langs_count=4&theme=highcontrast" alt="Top languages" />
-</p>
-  
----
-## 🛠️ Capabilities
 
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/></a>
-  <a href="https://gsap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gsap/88CE02" alt="GSAP" width="40" height="40"/></a>
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" alt="Framer Motion" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/blender/F5792A" alt="Blender" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
-</p>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,ts,rust,java,cpp,dart&theme=dark" alt="Languages"/>
+
+**Frontend & 3D**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite,flutter&theme=dark" alt="Frontend & 3D"/>
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,supabase,postgres,sqlite&theme=dark" alt="Backend & Data"/>
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,vercel,githubactions&theme=dark" alt="Cloud & DevOps"/>
+
+**Design & Tools**
+
+<img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,obsidian,git&theme=dark" alt="Design & Tools"/>
+
+**AI & Agents**
+
+<img src="https://img.shields.io/badge/Claude%20Code-6366F1?style=flat-square&logo=anthropic&logoColor=white&labelColor=0D1117" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0D1117" alt="Codex"/>
+<img src="https://img.shields.io/badge/MCP-0D1117?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0D1117" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0D1117" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&labelColor=0D1117" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/GLM--5.2%20(Z.ai)-2563EB?style=flat-square&labelColor=0D1117" alt="GLM-5.2"/>
+<img src="https://img.shields.io/badge/Whisper%20ASR-F55036?style=flat-square&logo=openai&logoColor=white&labelColor=0D1117" alt="Whisper ASR"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white&labelColor=0D1117" alt="Playwright"/>
+
+**Motion**
+
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black&labelColor=0D1117" alt="GSAP"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white&labelColor=0D1117" alt="Framer Motion"/>
+<img src="https://img.shields.io/badge/Lenis-0D1117?style=flat-square" alt="Lenis"/>
 
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gweeperming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gweeperming" height="30" width="40" /></a>
-<a href="https://facebook.com/jonathan.per.ming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonathan.per.ming" height="30" width="40" /></a>
-<a href="https://instagram.com/perming___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="perming___" height="30" width="40" /></a>
-<a href="https://www.behance.net/gweeperming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gweeperming" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/perminggwee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="perminggwee" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pmgwee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pmgwee" height="30" width="40" /></a>
-<a href="https://discord.com/users/jonathangwee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jonathangwee" height="30" width="40" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+<!-- ═══════════════════════════ AI PROJECTS ═══════════════════════════ -->
+
+## &nbsp;🚀&nbsp; AI Projects
+
+<table>
+<tr>
+
+<td colspan="2" valign="top">
+
+### 🤖 01 · Real-Ming — Personal AI Agent
+
+> **Flagship** — a customized & personalized Hermes Agent that works 24/7 like a real personal assistant
+
+Real-Ming is the control plane for my agent. One Telegram message can go all the way to delivered code in an opened PR.
+
+- **Operating SOP** — defined agent modes and model routing
+- **Agent Skills & MCP** — personalized workflows and tools
+- **Third-party connectors** — cross-source coordination across Gmail & Google Calendar
+- **Two daily briefs**, and everything tracked in a **kanban dashboard**
+
+`TypeScript` `Hermes Agent` `MCP` `Azure VM + Key Vault` `SQLite` `Telegram Bot API` `Google Calendar + Gmail API` `systemd` `Vitest`
+
+<a href="https://github.com/pmgwee/real-ming"><img src="https://img.shields.io/badge/Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+<a href="https://telegram.me/MingCreativesBot"><img src="https://img.shields.io/badge/Live%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Live on Telegram"/></a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📰 02 · BersamaAi
+
+> **Autonomous trending-news agent** — and the community it runs
+
+A one-person AI news desk that no longer needs the one person.
+
+- **GLM-5.2** judges every candidate story for relevance
+- Files stories into **9 Discord channels every 3 hours**
+- Caption-less videos → **Whisper ASR** on a daily GCP cron job
+
+`Python` `discord.py` `GLM-5.2 (Z.ai)` `Groq Whisper` `yt-dlp` `MCP` `GitHub Actions` `GCP Compute Engine`
+
+<a href="https://github.com/pmgwee/BersamaAi-community"><img src="https://img.shields.io/badge/Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+<a href="https://discord.gg/HfRZeJMmqn"><img src="https://img.shields.io/badge/Join%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join on Discord"/></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 03 · Second Brain
+
+> **Long-term agent memory** shared across Claude Code & Codex
+
+Claude Code forgets. Codex forgets. This remembers for both of them.
+
+- Session transcripts → **evidence-cited Obsidian memory**
+- Served back as a **≤1,500-token orientation**, not a cold start
+- Hybrid BM25 + vector + graph RRF — **96.0% Recall@5** over 246,750 turns
+
+`Rust` `SQLite FTS5` `all-MiniLM-L6-v2` `Codegraph` `MCP` `Next.js` `Claude Code + Codex hooks`
+
+<a href="https://github.com/pmgwee/agent-knowledge-base-codex"><img src="https://img.shields.io/badge/Engine-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Engine"/></a>
+<a href="https://github.com/pmgwee/agent-brain-dashboard"><img src="https://img.shields.io/badge/Console-6366F1?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Console"/></a>
+<a href="https://github.com/pmgwee/agent-knowledge-base-codex#evaluation"><img src="https://img.shields.io/badge/Eval-3ECF8E?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Eval methodology"/></a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 04 · INTI-MBA Chatbot
+
+> **RAG chatbot** with self auto-ingestion
+
+A course assistant that re-reads the syllabus while you sleep — and cites the slide it answered from.
+
+- **LangGraph agent** grades its own retrievals and rewrites the query when they fail
+- **4 live Canvas courses**, **3,800+ passages** indexed
+- **Zero manual uploads** — ingestion runs on its own
+
+`Python` `FastAPI` `LangGraph` `LangChain` `Pinecone` `RapidOCR` `Docker` `AWS EC2` `Next.js 15`
+
+<a href="https://github.com/pmgwee/Ai-Chatbot"><img src="https://img.shields.io/badge/Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+<a href="https://drive.google.com/file/d/16-3yEi0P6bUBWXwXenkQOa0ZdfY8Wc28/view?usp=drive_link"><img src="https://img.shields.io/badge/2--min%20demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="2-min demo"/></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💸 05 · DuitSini
+
+> **Real-time LLM usage & money tracker**
+
+Every ringgit and every token, on one screen.
+
+- Bills, stocks, and **live Claude / GLM burn** across subscription plans and raw API keys
+- **MYR-native**, with **Telegram alerts** the moment a threshold breaks
+- **PDF statements** on demand
+
+`Next.js 15` `React 19` `TypeScript` `Supabase` `GLM-5.2` `GCP OAuth 2.0` `YouTube API` `Telegram Bot` `Recharts` `Tailwind v4`
+
+<a href="https://github.com/pmgwee/DuitSini"><img src="https://img.shields.io/badge/Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+<a href="https://duitsini.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a>
+
+<sub><i>Expanded from the "LLM-Backed Music Recommendation & Usage Tracker" on my résumé.</i></sub>
+
+</td>
+
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+<!-- ═══════════════════════════ AGENT TOOLING ═══════════════════════════ -->
+
+## &nbsp;🧰&nbsp; Agent tooling, skills & plugins
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧭 Multi-Agent Routing Orchestration
+
+A frontier model plans, a cheaper CLI model builds headless, and Playwright screenshot evidence goes back to the planner at every phase — so the executor gets **verified, not trusted**. Crash-safe resumption, zero manual prompting.
+
+`Claude Code Skills` `Node.js` `Playwright` `MCP` `cc-switch`
+
+<a href="https://github.com/pmgwee/Ai-Agent-Orchestration-Pipeline#readme"><img src="https://img.shields.io/badge/Read%20the%20guide-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Guide"/></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📒 AI Agent Evaluation Layer
+
+A universal Claude skill that gives any agent-built project an **append-only "why it changed" log** — defects, root causes, decisions, real user feedback — in one committed file that survives across sessions and across different AI agents.
+
+<a href="https://github.com/pmgwee/Ai-Agent-Evaluation-Layer#readme"><img src="https://img.shields.io/badge/Read%20the%20guide-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Guide"/></a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧬 Clone Website Plugin
+
+Clones any site 1:1 through **Design DNA extraction**.
+
+**Install:** `claude plugin marketplace add pmgwee/clone-website-plugin`
+
+<a href="https://github.com/pmgwee/clone-website-plugin"><img src="https://img.shields.io/badge/Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Prompt Shortcut
+
+Turns saved prompts into a **clickable slash-command menu**. One file per prompt, so adding one never touches code.
+
+**Install:** `/plugin marketplace add pmgwee/prompt-shortcut`
+
+<a href="https://github.com/pmgwee/prompt-shortcut#readme"><img src="https://img.shields.io/badge/Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+
+</td>
+
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+<!-- ═══════════════════════════ CREATIVE 3D ═══════════════════════════ -->
+
+## &nbsp;🌐&nbsp; Creative 3D
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### ✨ Ming Creatives
+
+Yierming Production's brand site — a **3D scrollytelling portfolio**.
+
+`Next.js 16` `GSAP` `Framer Motion` `Lenis`
+
+<a href="https://mingcreatives.com/"><img src="https://img.shields.io/badge/Visit-6366F1?style=for-the-badge&labelColor=0D1117" alt="Visit"/></a>
+<a href="https://github.com/pmgwee/ming-portfolio"><img src="https://img.shields.io/badge/Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🏛️ 3D George Town
+
+A **playable 3D George Town** built from live OpenStreetMap footprints with custom PBR shaders.
+
+`Three.js` `WebGL` `Vite`
+
+<a href="https://real-penang.vercel.app/"><img src="https://img.shields.io/badge/Play-3ECF8E?style=for-the-badge&labelColor=0D1117" alt="Play"/></a>
+<a href="https://github.com/pmgwee/real-penang"><img src="https://img.shields.io/badge/Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🕌 3D Dataran Merdeka
+
+A **playable 3D Dataran Merdeka** built from live OpenStreetMap footprints with custom PBR shaders.
+
+`Three.js` `WebGL` `Vite`
+
+<a href="https://dataranmerdeka.vercel.app/"><img src="https://img.shields.io/badge/Play-3ECF8E?style=for-the-badge&labelColor=0D1117" alt="Play"/></a>
+<a href="https://github.com/pmgwee/image-3d-model-"><img src="https://img.shields.io/badge/Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+
+</td>
+
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+
+## &nbsp;📊&nbsp; GitHub stats
+
+<div align="center">
+
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=pmgwee&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" alt="GitHub stats"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=pmgwee&layout=compact&langs_count=6&hide_border=true&border_radius=12&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="Top languages"/>
+
+<br/><br/>
+
+<img width="82%" src="https://streak-stats.demolab.com/?user=pmgwee&hide_border=true&border_radius=12&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="Streak"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+<!-- ═══════════════════════════ PAST WORKS ═══════════════════════════ -->
+
+## &nbsp;📚&nbsp; Past works
+
+University coursework, hackathon builds, and final-year projects from my **BSc in Computer Science at USM** — spanning web, mobile, blockchain, AI, and algorithms — archived as read-only snapshots in one repo.
+
+<a href="https://github.com/pmgwee/past-projects"><img src="https://img.shields.io/badge/📂%20pmgwee%2Fpast--projects-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Past projects"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
+
+<div align="center">
+
+## &nbsp;💼&nbsp; Let's build together
+
+Currently on my #100DaysOfJobHunt — always up for talking agentic systems, agent memory & evals, or 3D on the web.
+
+<a href="mailto:perminggwee@gmail.com"><img src="https://img.shields.io/badge/📧%20Email%20me-6366F1?style=for-the-badge&labelColor=0D1117" alt="Email"/></a>
+<a href="https://linkedin.com/in/gweeperming"><img src="https://img.shields.io/badge/💬%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117" alt="LinkedIn"/></a>
+
+<br/>
+
+<a href="https://www.behance.net/gweeperming"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/></a>
+<a href="https://www.youtube.com/c/perminggwee"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.leetcode.com/pmgwee"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://instagram.com/perming___"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://facebook.com/jonathan.per.ming"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://discord.com/users/jonathangwee"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+
+<br/>
+
+<i>If a project helps you, a ⭐ is always appreciated.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
