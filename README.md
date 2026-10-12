@@ -70,7 +70,7 @@ class Perming:
 </table>
 
 > [!TIP]
-> **#100DaysOfJobHunt — Day 7/100.** I run my entire job search through **[career-ops](https://github.com/career-ops-hq/career-ops)**. This week: **50+ applications** (up from 2 last week) → **5 responses** → **1 interview invite**.
+> **#100DaysOfJobHunt — Day 20/100.** I run my entire job search through **[career-ops](https://github.com/career-ops-hq/career-ops)**. This week: **100+ applications** (up from 2 last week) → **20 responses** → **2 interview invite**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
