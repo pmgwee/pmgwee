@@ -5,22 +5,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Perming%20Gwee&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%2FAI%20Engineer%20%E2%80%A2%20Agentic%20Product%20Builder%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Malaysia&descSize=16&descAlignY=54" width="100%"/>
 
 <a href="https://www.mingcreatives.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=6366F1&center=true&vCenter=true&width=760&lines=Building+production+AI+agents;Agent+Memory+%C2%B7+Multi-Agent+Orchestration+%C2%B7+Evals;Open-source+contributor+%40+Career+Ops+(70K%E2%98%85);Playable+3D+cities+in+the+browser;Welcome+to+my+profile+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=6366F1&center=true&vCenter=true&width=760&lines=Building+production+AI+agents;Agent+Memory+%C2%B7+Multi-Agent+Orchestration+%C2%B7+Evals;Open-source+contributor+%40+Career+Ops+(70K%E2%98%85);Open-source+contributor+%40+Agent-reach+(100K%E2%98%85);Playable+3D+cities+in+the+browser;Welcome+to+my+profile+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
-
-<br/><br/>
 
 <a href="https://www.mingcreatives.com"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/gweeperming"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
 <a href="mailto:perminggwee@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
 <a href="https://www.behance.net/gweeperming"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=0D1117" alt="Behance"/></a>
-
-<br/>
-
-<a href="https://github.com/pmgwee"><img src="https://komarev.com/ghpvc/?username=pmgwee&style=flat-square&color=6366f1&label=Profile+views&base=0" alt="Profile views"/></a>
-<a href="https://github.com/pmgwee?tab=followers"><img src="https://img.shields.io/github/followers/pmgwee?label=Followers&style=flat-square&color=6366f1&labelColor=0D1117" alt="Followers"/></a>
-<img src="https://img.shields.io/badge/Open%20to%20work-Yes-3ECF8E?style=flat-square&labelColor=0D1117" alt="Open to work"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
@@ -35,21 +26,18 @@
 
 ```python
 class Perming:
-    home    = "Malaysia 🇲🇾"
+    country    = "Malaysia 🇲🇾"
     degree  = "BSc Computer Science, USM"
-    builds  = ["agentic systems", "agent memory",
-               "multi-agent orchestration",
-               "evals", "3D web"]
-    shipped = ["Real-Ming", "BersamaAi",
-               "Second Brain", "DuitSini",
-               "INTI-MBA Chatbot"]
+    master  = "MBA, INTI"
+    builds  = ["agentic systems", "AI agent"
+               "social media content creator",
+               "3D web", "design"]
     studio  = "Ming Creatives"
 
-    def job_hunt(self, day=7):
+    def job_hunt(cycle, day=7):
         # all through career-ops
-        return {"apps": "50+ / week",
-                "replies": 5,
-                "interviews": 1}
+        return {"work": "160+ / week",
+                "rest": null}
 ```
 
 </td>
@@ -57,12 +45,10 @@ class Perming:
 
 |  | |
 |:--:|:--|
-| 🤖 | I build **agents that run 24/7** and ship code |
-| 🧠 | Deep in **agent memory, orchestration & evals** |
-| 🔌 | Shipping **agent skills, plugins & MCP tools** |
+| 🤖 | I build **agents that run 24/7** and ship code<br>Explore **agent memory, orchestration & evals**<br>Ship **agent skills, plugins & MCP tools** |
 | 🌱 | Open-source contributor @ **[career-ops](https://github.com/career-ops-hq/career-ops)** (70K★) |
-| 🎨 | Making **3D web** for Ming Creatives |
-| 🌐 | **[mingcreatives.com](https://www.mingcreatives.com)** |
+| 🌱 | Open-source contributor @ **[Agent-reach](https://github.com/Panniantong/agent-reach)** (100K★) |
+| 🎨 | Making **3D web** for **[Ming Creatives](https://www.mingcreatives.com)** |
 | 📫 | **[perminggwee@gmail.com](mailto:perminggwee@gmail.com)** |
 
 </td>
