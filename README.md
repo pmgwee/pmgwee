@@ -4,11 +4,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Perming%20Gwee&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%2FAI%20Engineer%20%E2%80%A2%20Agentic%20Product%20Builder%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Malaysia&descSize=16&descAlignY=54" width="100%"/>
 
-<a href="https://www.mingcreatives.com">
+<a href="https://www.linkedin.com/in/gweeperming/?isSelfProfile=true">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=6366F1&center=true&vCenter=true&width=760&lines=Building+production+AI+agents;Agent+Memory+%C2%B7+Multi-Agent+Orchestration+%C2%B7+Evals;Open-source+contributor+%40+Career+Ops+(70K%E2%98%85);Open-source+contributor+%40+Agent-reach+(100K%E2%98%85);Playable+3D+cities+in+the+browser;Welcome+to+my+profile+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
-<a href="https://www.mingcreatives.com"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/gweeperming"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
 <a href="mailto:perminggwee@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
 <a href="https://www.behance.net/gweeperming"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=0D1117" alt="Behance"/></a>
@@ -30,9 +29,8 @@ class Perming:
     degree  = "BSc Computer Science, USM"
     master  = "MBA, INTI"
     builds  = ["agentic systems", "AI agent"
-               "social media content creator",
+               "Data solution",
                "3D web", "design"]
-    studio  = "Ming Creatives"
 
     def job_hunt(cycle, day=7):
         # all through career-ops
@@ -48,7 +46,6 @@ class Perming:
 | 🤖 | I build **agents that run 24/7** and ship code<br>Explore **agent memory, orchestration & evals**<br>Ship **agent skills, plugins & MCP tools** |
 | 🌱 | Open-source contributor @ **[career-ops](https://github.com/career-ops-hq/career-ops)** (70K★) |
 | 🌱 | Open-source contributor @ **[Agent-reach](https://github.com/Panniantong/agent-reach)** (100K★) |
-| 🎨 | Making **3D web** for **[Ming Creatives](https://www.mingcreatives.com)** |
 | 📫 | **[perminggwee@gmail.com](mailto:perminggwee@gmail.com)** |
 
 </td>
@@ -295,13 +292,12 @@ Turns saved prompts into a **clickable slash-command menu**. One file per prompt
 
 <td width="33%" valign="top">
 
-### ✨ Ming Creatives
+### ✨ 3D Scrolling Website
 
-Yierming Production's brand site — a **3D scrollytelling portfolio**.
+brand site — a **3D scrollytelling portfolio**.
 
 `Next.js 16` `GSAP` `Framer Motion` `Lenis`
 
-<a href="https://mingcreatives.com/"><img src="https://img.shields.io/badge/Visit-6366F1?style=for-the-badge&labelColor=0D1117" alt="Visit"/></a>
 <a href="https://github.com/pmgwee/ming-portfolio"><img src="https://img.shields.io/badge/Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
 
 </td>
@@ -374,15 +370,6 @@ Currently on my #100DaysOfJobHunt — always up for talking agentic systems, age
 
 <a href="mailto:perminggwee@gmail.com"><img src="https://img.shields.io/badge/📧%20Email%20me-6366F1?style=for-the-badge&labelColor=0D1117" alt="Email"/></a>
 <a href="https://linkedin.com/in/gweeperming"><img src="https://img.shields.io/badge/💬%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117" alt="LinkedIn"/></a>
-
-<br/>
-
-<a href="https://www.behance.net/gweeperming"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/></a>
-<a href="https://www.youtube.com/c/perminggwee"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://www.leetcode.com/pmgwee"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://instagram.com/perming___"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://facebook.com/jonathan.per.ming"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://discord.com/users/jonathangwee"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
 
 <br/>
 
