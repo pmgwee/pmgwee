@@ -28,14 +28,14 @@ class Perming:
     country    = "Malaysia 🇲🇾"
     degree  = "BSc Computer Science, USM"
     master  = "MBA, INTI"
-    builds  = ["agentic systems", "AI agent"
+    builds  = ["agentic systems", "AI agent",
                "Data solution",
                "3D web", "design"]
 
     def job_hunt(cycle, day=7):
         # all through career-ops
         return {"work": "160+ / week",
-                "rest": null}
+                "rest": None}
 ```
 
 </td>
@@ -53,7 +53,7 @@ class Perming:
 </table>
 
 > [!TIP]
-> **#150DaysOfJobHunt — Day 150/150.** I run my entire job search through **[career-ops](https://github.com/career-ops-hq/career-ops)**. This week: **110+ applications** (up from 2 last week) → **20 responses** → **4 interview invite**.
+> **#150DaysOfJobHunt — Day 150/150.** I run my entire job search through **[career-ops](https://github.com/career-ops-hq/career-ops)**. This week: **110+ applications** (up from 2 last week) → **20 responses** → **4 interview invites**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
@@ -366,7 +366,7 @@ University coursework, hackathon builds, and final-year projects from my **BSc i
 
 ## &nbsp;💼&nbsp; Let's build together
 
-Currently on my #100DaysOfJobHunt — always up for talking agentic systems, agent memory & evals, or 3D on the web.
+Currently on my #150DaysOfJobHunt — always up for talking agentic systems, agent memory & evals, or 3D on the web.
 
 <a href="mailto:perminggwee@gmail.com"><img src="https://img.shields.io/badge/📧%20Email%20me-6366F1?style=for-the-badge&labelColor=0D1117" alt="Email"/></a>
 <a href="https://linkedin.com/in/gweeperming"><img src="https://img.shields.io/badge/💬%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117" alt="LinkedIn"/></a>
